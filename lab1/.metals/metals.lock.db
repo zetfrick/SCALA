@@ -1,6 +1,4 @@
 #FileLock
-#Thu Nov 21 13:36:59 MSK 2024
-server=localhost\:57428
-hostName=localhost
+#Thu Nov 21 15:38:55 MSK 2024
 method=file
-id=1934e4bef141aded13a273eb35f58771ab58abe3d1c
+id=1934ebb8f7cf6c64682e104c44a4e009ab035aea96b

@@ -635,3 +635,300 @@ WARNING: Unmatched cancel notification for request id 5222
 2024.11.21 14:36:08 INFO  time: compiled lab1 in 0.69s
 2024.11.21 14:36:18 INFO  compiling lab1 (1 scala source)
 2024.11.21 14:36:18 INFO  time: compiled lab1 in 0.49s
+2024.11.21 15:00:46 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:00:46 INFO  time: compiled lab1 in 0.46s
+2024.11.21 15:00:51 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:00:51 INFO  time: compiled lab1 in 0.49s
+2024.11.21 15:02:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:02:47 INFO  time: compiled lab1 in 0.23s
+2024.11.21 15:02:49 ERROR D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.21 15:02:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:02:49 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:02:50 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:02:50 INFO  time: compiled lab1 in 0.16s
+2024.11.21 15:02:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:02:57 INFO  time: compiled lab1 in 0.23s
+2024.11.21 15:02:58 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:02:58 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:03:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:03:08 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:04:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:04:04 INFO  time: compiled lab1 in 0.53s
+2024.11.21 15:09:10 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:10 INFO  time: compiled lab1 in 0.65s
+2024.11.21 15:09:26 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:26 INFO  time: compiled lab1 in 0.56s
+2024.11.21 15:09:42 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:42 INFO  time: compiled lab1 in 0.44s
+2024.11.21 15:09:46 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:46 INFO  time: compiled lab1 in 0.26s
+2024.11.21 15:09:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:49 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:09:53 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:53 INFO  time: compiled lab1 in 0.19s
+2024.11.21 15:09:55 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:09:55 INFO  time: compiled lab1 in 0.2s
+2024.11.21 15:09:57 INFO  time: compiled lab1 in 28ms
+2024.11.21 15:10:19 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:10:19 INFO  time: compiled lab1 in 0.42s
+2024.11.21 15:10:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:10:30 INFO  time: compiled lab1 in 0.23s
+2024.11.21 15:10:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:10:34 INFO  time: compiled lab1 in 0.17s
+2024.11.21 15:10:38 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:10:38 INFO  time: compiled lab1 in 0.38s
+2024.11.21 15:10:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:10:43 INFO  time: compiled lab1 in 0.43s
+2024.11.21 15:11:13 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:13 INFO  time: compiled lab1 in 0.53s
+2024.11.21 15:11:15 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:15 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:11:20 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:20 INFO  time: compiled lab1 in 0.19s
+2024.11.21 15:11:21 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:21 INFO  time: compiled lab1 in 0.58s
+2024.11.21 15:11:27 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:27 INFO  time: compiled lab1 in 0.23s
+2024.11.21 15:11:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:28 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:11:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:30 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:11:33 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:33 INFO  time: compiled lab1 in 0.15s
+2024.11.21 15:11:35 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:35 INFO  time: compiled lab1 in 0.14s
+2024.11.21 15:11:37 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:37 INFO  time: compiled lab1 in 0.47s
+2024.11.21 15:11:39 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:39 INFO  time: compiled lab1 in 0.4s
+2024.11.21 15:11:41 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:41 INFO  time: compiled lab1 in 0.49s
+2024.11.21 15:11:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:43 INFO  time: compiled lab1 in 0.39s
+2024.11.21 15:11:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:49 INFO  time: compiled lab1 in 0.38s
+2024.11.21 15:11:53 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:53 INFO  time: compiled lab1 in 0.39s
+2024.11.21 15:11:56 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:11:56 INFO  time: compiled lab1 in 0.41s
+2024.11.21 15:12:00 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:00 INFO  time: compiled lab1 in 0.42s
+2024.11.21 15:12:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:08 INFO  time: compiled lab1 in 0.37s
+2024.11.21 15:12:42 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:42 INFO  time: compiled lab1 in 0.4s
+ÌÓˇ·. 21, 2024 3:12:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6467
+2024.11.21 15:12:45 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:45 INFO  time: compiled lab1 in 0.42s
+2024.11.21 15:12:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:47 INFO  time: compiled lab1 in 0.36s
+2024.11.21 15:12:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:49 INFO  time: compiled lab1 in 0.44s
+2024.11.21 15:12:52 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:12:52 INFO  time: compiled lab1 in 0.36s
+2024.11.21 15:14:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:14:47 INFO  time: compiled lab1 in 0.21s
+2024.11.21 15:14:52 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:14:52 INFO  time: compiled lab1 in 0.4s
+2024.11.21 15:19:27 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:19:27 INFO  time: compiled lab1 in 0.56s
+2024.11.21 15:19:42 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:19:42 INFO  time: compiled lab1 in 0.43s
+2024.11.21 15:19:45 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:19:45 INFO  time: compiled lab1 in 0.4s
+2024.11.21 15:22:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:22:03 INFO  time: compiled lab1 in 0.61s
+2024.11.21 15:22:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:22:04 INFO  time: compiled lab1 in 0.5s
+2024.11.21 15:22:05 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:22:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:22:06 INFO  time: compiled lab1 in 0.53s
+2024.11.21 15:22:06 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:22:14 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:22:21 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:22:22 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:22:23 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:22:23 INFO  time: compiled lab1 in 0.71s
+2024.11.21 15:22:24 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:23:20 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:23:54 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:23:55 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:23:55 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:23:55 INFO  time: compiled lab1 in 0.55s
+2024.11.21 15:23:56 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:23:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:23:57 INFO  time: compiled lab1 in 0.44s
+2024.11.21 15:23:57 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:00 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:01 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:01 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:02 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:24:02 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:24:03 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:03 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:24:04 INFO  time: compiled lab1 in 0.19s
+2024.11.21 15:24:05 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:06 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:07 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:24:07 INFO  time: compiled lab1 in 0.2s
+2024.11.21 15:24:07 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:08 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:09 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:24:09 INFO  time: compiled lab1 in 0.14s
+2024.11.21 15:24:09 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:11 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:24:12 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:24:12 INFO  time: compiled lab1 in 0.21s
+2024.11.21 15:24:13 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:25 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:31 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:31 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:32 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:28:32 INFO  time: compiled lab1 in 0.22s
+2024.11.21 15:28:32 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:33 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:33 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:34 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:34 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:34 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:35 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:35 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 15:28:36 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:28:36 INFO  time: compiled lab1 in 0.57s
+2024.11.21 15:28:42 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:28:42 INFO  time: compiled lab1 in 0.24s
+2024.11.21 15:28:46 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:28:46 INFO  time: compiled lab1 in 0.47s
+2024.11.21 15:28:53 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:28:53 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:28:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:28:57 INFO  time: compiled lab1 in 0.17s
+2024.11.21 15:29:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:06 INFO  time: compiled lab1 in 0.39s
+2024.11.21 15:29:21 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:21 INFO  time: compiled lab1 in 0.23s
+2024.11.21 15:29:22 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:22 INFO  time: compiled lab1 in 0.23s
+2024.11.21 15:29:23 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:23 INFO  time: compiled lab1 in 0.15s
+2024.11.21 15:29:33 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:33 INFO  time: compiled lab1 in 0.17s
+2024.11.21 15:29:37 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:37 INFO  time: compiled lab1 in 0.2s
+2024.11.21 15:29:39 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:39 INFO  time: compiled lab1 in 0.43s
+2024.11.21 15:29:51 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:51 INFO  time: compiled lab1 in 0.17s
+2024.11.21 15:29:59 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:29:59 INFO  time: compiled lab1 in 0.2s
+2024.11.21 15:30:02 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:30:02 INFO  time: compiled lab1 in 0.16s
+2024.11.21 15:30:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:30:06 INFO  time: compiled lab1 in 0.34s
+2024.11.21 15:31:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:31:08 INFO  time: compiled lab1 in 0.21s
+2024.11.21 15:31:18 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:31:18 INFO  time: compiled lab1 in 0.15s
+2024.11.21 15:31:23 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:31:23 INFO  time: compiled lab1 in 0.18s
+2024.11.21 15:31:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:31:30 INFO  time: compiled lab1 in 0.45s
+2024.11.21 15:31:44 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:31:44 INFO  time: compiled lab1 in 0.49s
+2024.11.21 15:33:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:33:08 INFO  time: compiled lab1 in 0.57s
+2024.11.21 15:33:10 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:33:10 INFO  time: compiled lab1 in 0.36s
+2024.11.21 15:33:13 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:33:13 INFO  time: compiled lab1 in 0.37s
+2024.11.21 15:33:17 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:33:17 INFO  time: compiled lab1 in 0.4s
+2024.11.21 15:33:21 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:33:21 INFO  time: compiled lab1 in 0.38s
+2024.11.21 15:33:24 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:33:24 INFO  time: compiled lab1 in 0.42s
+2024.11.21 15:34:12 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:12 INFO  time: compiled lab1 in 0.5s
+2024.11.21 15:34:14 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:14 INFO  time: compiled lab1 in 0.42s
+2024.11.21 15:34:23 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:23 INFO  time: compiled lab1 in 0.46s
+2024.11.21 15:34:25 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:25 INFO  time: compiled lab1 in 0.33s
+2024.11.21 15:34:27 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:27 INFO  time: compiled lab1 in 0.57s
+2024.11.21 15:34:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:30 INFO  time: compiled lab1 in 0.43s
+2024.11.21 15:34:32 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:32 INFO  time: compiled lab1 in 0.35s
+2024.11.21 15:34:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:34 INFO  time: compiled lab1 in 0.37s
+2024.11.21 15:34:40 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:40 INFO  time: compiled lab1 in 0.43s
+2024.11.21 15:34:41 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:41 INFO  time: compiled lab1 in 0.32s
+2024.11.21 15:34:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:43 INFO  time: compiled lab1 in 0.3s
+2024.11.21 15:34:51 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:51 INFO  time: compiled lab1 in 0.47s
+2024.11.21 15:34:52 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:52 INFO  time: compiled lab1 in 0.34s
+2024.11.21 15:34:54 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:54 INFO  time: compiled lab1 in 0.35s
+2024.11.21 15:34:55 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:55 INFO  time: compiled lab1 in 0.3s
+2024.11.21 15:34:59 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:34:59 INFO  time: compiled lab1 in 0.45s
+2024.11.21 15:35:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:03 INFO  time: compiled lab1 in 0.4s
+2024.11.21 15:35:05 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:05 INFO  time: compiled lab1 in 0.38s
+2024.11.21 15:35:07 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:07 INFO  time: compiled lab1 in 0.29s
+2024.11.21 15:35:12 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:12 INFO  time: compiled lab1 in 0.46s
+2024.11.21 15:35:38 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:38 INFO  time: compiled lab1 in 0.39s
+2024.11.21 15:35:39 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:39 INFO  time: compiled lab1 in 0.31s
+2024.11.21 15:35:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:43 INFO  time: compiled lab1 in 0.4s
+2024.11.21 15:35:46 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:46 INFO  time: compiled lab1 in 0.36s
+2024.11.21 15:35:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:49 INFO  time: compiled lab1 in 0.38s
+2024.11.21 15:35:51 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:35:51 INFO  time: compiled lab1 in 0.36s
+2024.11.21 15:36:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 15:36:03 INFO  time: compiled lab1 in 0.36s
+2024.11.21 15:38:19 INFO  Shutting down server
+2024.11.21 15:38:19 INFO  shutting down Metals
+2024.11.21 15:38:19 INFO  Shut down connection with build server.
+2024.11.21 15:38:19 INFO  Shut down connection with build server.
+2024.11.21 15:38:19 INFO  Exiting server
