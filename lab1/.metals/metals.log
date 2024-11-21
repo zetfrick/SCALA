@@ -946,3 +946,10 @@ WARNING: Unmatched cancel notification for request id 6467
 2024.11.21 15:38:58 INFO  time: Imported build in 0.12s
 2024.11.21 15:38:58 INFO  running doctor check
 2024.11.21 15:38:58 INFO  java targets: lab1-build, lab1, lab1-test
+2024.11.21 15:39:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 15:39:14 INFO  time: indexed workspace in 15s
+2024.11.21 15:39:29 INFO  Shutting down server
+2024.11.21 15:39:29 INFO  shutting down Metals
+2024.11.21 15:39:29 INFO  Shut down connection with build server.
+2024.11.21 15:39:29 INFO  Shut down connection with build server.
+2024.11.21 15:39:29 INFO  Exiting server
