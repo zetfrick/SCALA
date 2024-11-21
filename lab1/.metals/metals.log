@@ -1,0 +1,637 @@
+2024.11.21 13:35:13 INFO  Started: Metals version 1.4.1 in folders 'D:\»–»“\SCALA\hello-world' for client Visual Studio Code 1.95.3.
+2024.11.21 13:35:15 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 13:35:24 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:25 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:25 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:27 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:27 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:29 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:29 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:29 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:30 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:30 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:30 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:32 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:32 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:32 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:32 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:32 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:32 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:33 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:33 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:33 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:33 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:33 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:33 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:34 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:35 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:35 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:36 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:36 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:38 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:37 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:37 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:38 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:38 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:39 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:39 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:39 WARN  no build target for: D:\»–»“\SCALA\hello-world\build.sbt
+2024.11.21 13:35:39 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:39 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:39 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:39 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:42 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:42 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:42 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:42 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:42 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:45 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:47 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:47 WARN  no build target for: D:\»–»“\SCALA\hello-world\build.sbt
+2024.11.21 13:35:47 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:47 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:47 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:35:47 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:51 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:51 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:52 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:52 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:53 WARN  no build target for: D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala
+2024.11.21 13:35:53 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:53 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:55 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:56 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:35:56 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:36:11 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:14 WARN  no build target for: D:\»–»“\SCALA\hello-world\build.sbt
+2024.11.21 13:36:14 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:14 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:14 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:36:14 WARN  no build target for: D:\»–»“\SCALA\hello-world\build.sbt
+2024.11.21 13:36:14 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:14 INFO  no build target found for D:\»–»“\SCALA\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:14 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/hello-world/build.sbt
+2024.11.21 13:36:17 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:18 INFO  no build target found for D:\»–»“\SCALA\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:36:17 INFO  Shutting down server
+2024.11.21 13:36:17 INFO  shutting down Metals
+2024.11.21 13:36:18 INFO  Exiting server
+2024.11.21 13:36:58 INFO  Started: Metals version 1.4.1 in folders 'D:\»–»“\SCALA\lab1' for client Visual Studio Code 1.95.3.
+2024.11.21 13:36:59 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 13:36:59 INFO  no build target found for D:\»–»“\SCALA\lab1\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:37:00 INFO  no build target found for D:\»–»“\SCALA\lab1\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:37:02 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/lab1/build.sbt
+2024.11.21 13:37:03 INFO  running 'C:\Users\fsome\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\fsome\AppData\Local\Temp\metals13653801559255039723\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.21 13:37:03 INFO  no build target found for D:\»–»“\SCALA\lab1\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 13:37:04 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17)
+2024.11.21 13:37:07 INFO  [info] loading settings for project lab1-build-build from metals.sbt ...
+2024.11.21 13:37:07 INFO  [info] loading project definition from D:\–?–†–?–¢\SCALA\lab1\project\project
+2024.11.21 13:37:10 INFO  [info] loading settings for project lab1-build from metals.sbt ...
+2024.11.21 13:37:10 INFO  [info] loading project definition from D:\–?–†–?–¢\SCALA\lab1\project
+2024.11.21 13:37:13 INFO  [success] Generated .bloop\lab1-build.json
+2024.11.21 13:37:13 INFO  [success] Total time: 2 s, completed 21 –Ω–æ—è–±. 2024 –≥., 13:37:13
+2024.11.21 13:37:14 INFO  [info] loading settings for project lab1 from build.sbt ...
+2024.11.21 13:37:14 INFO  [info] set current project to hello-world (in build file:/D:/–?–†–?–¢/SCALA/lab1/)
+2024.11.21 13:37:14 INFO  [success] Generated .bloop\lab1.json
+2024.11.21 13:37:14 INFO  [success] Generated .bloop\lab1-test.json
+2024.11.21 13:37:14 INFO  [success] Total time: 1 s, completed 21 –Ω–æ—è–±. 2024 –≥., 13:37:15
+2024.11.21 13:37:16 INFO  time: ran 'sbt bloopInstall' in 12s
+2024.11.21 13:37:16 INFO  Attempting to connect to the build server...
+2024.11.21 13:37:16 INFO  Found a Bloop server running
+2024.11.21 13:37:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 13:37:16 INFO  Attempting to connect to the build server...
+2024.11.21 13:37:16 INFO  Found a Bloop server running
+2024.11.21 13:37:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 13:37:16 INFO  time: Connected to build server in 1.2s
+2024.11.21 13:37:16 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.21 13:37:17 INFO  running doctor check
+2024.11.21 13:37:17 INFO  java targets: lab1-build, lab1, lab1-test
+2024.11.21 13:37:17 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src\main\scala
+2024.11.21 13:37:20 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 13:37:27 INFO  time: indexed workspace in 9.79s
+2024.11.21 13:37:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:37:28 INFO  time: compiled lab1 in 0.81s
+ÌÓˇ·. 21, 2024 1:37:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.21 13:38:27 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:38:27 INFO  time: compiled lab1 in 0.43s
+2024.11.21 13:38:32 INFO  time: compiled lab1 in 28ms
+2024.11.21 13:38:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:38:50 INFO  time: compiled lab1 in 2.87s
+2024.11.21 13:44:22 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:44:23 INFO  time: compiled lab1 in 1.42s
+2024.11.21 13:44:26 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:44:27 INFO  time: compiled lab1 in 1.02s
+2024.11.21 13:44:35 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:44:35 INFO  time: compiled lab1 in 0.43s
+2024.11.21 13:44:37 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:44:37 INFO  time: compiled lab1 in 0.86s
+2024.11.21 13:44:52 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:44:52 INFO  time: compiled lab1 in 0.84s
+2024.11.21 13:44:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:44:57 INFO  time: compiled lab1 in 0.75s
+2024.11.21 13:45:33 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:45:33 INFO  time: compiled lab1 in 0.82s
+2024.11.21 13:45:38 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:45:38 INFO  time: compiled lab1 in 0.67s
+2024.11.21 13:45:42 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:45:42 INFO  time: compiled lab1 in 0.81s
+2024.11.21 13:45:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:45:49 INFO  time: compiled lab1 in 0.79s
+2024.11.21 13:45:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:45:57 INFO  time: compiled lab1 in 0.33s
+2024.11.21 13:45:58 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:45:59 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:45:58 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:46:00 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:46:00 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:46:01 INFO  time: compiled lab1 in 54ms
+2024.11.21 13:46:05 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:46:05 INFO  time: compiled lab1 in 0.65s
+2024.11.21 13:46:09 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:46:09 INFO  time: compiled lab1 in 0.67s
+2024.11.21 13:46:11 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:46:11 INFO  time: compiled lab1 in 0.57s
+2024.11.21 13:46:16 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:46:16 INFO  time: compiled lab1 in 0.65s
+2024.11.21 13:46:19 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:46:19 INFO  time: compiled lab1 in 0.81s
+2024.11.21 13:46:23 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:46:23 INFO  time: compiled lab1 in 0.57s
+2024.11.21 13:47:05 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:47:05 INFO  time: compiled lab1 in 0.39s
+2024.11.21 13:49:45 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:49:45 INFO  time: compiled lab1 in 0.55s
+2024.11.21 13:49:48 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:49:48 INFO  time: compiled lab1 in 0.52s
+2024.11.21 13:49:54 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:49:54 INFO  time: compiled lab1 in 0.52s
+2024.11.21 13:49:56 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:49:56 INFO  time: compiled lab1 in 0.23s
+2024.11.21 13:49:56 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:49:58 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:49:58 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:49:58 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 13:49:59 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:49:59 INFO  time: compiled lab1 in 0.5s
+2024.11.21 13:50:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:50:04 INFO  time: compiled lab1 in 0.22s
+2024.11.21 13:50:07 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:50:07 INFO  time: compiled lab1 in 0.2s
+2024.11.21 13:50:11 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:50:11 INFO  time: compiled lab1 in 0.48s
+2024.11.21 13:51:32 ERROR D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.21 13:51:32 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:51:32 INFO  time: compiled lab1 in 0.31s
+2024.11.21 13:51:55 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:51:55 INFO  time: compiled lab1 in 0.48s
+2024.11.21 13:52:01 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:01 INFO  time: compiled lab1 in 0.39s
+2024.11.21 13:52:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:03 INFO  time: compiled lab1 in 0.35s
+2024.11.21 13:52:10 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:10 INFO  time: compiled lab1 in 0.43s
+ÌÓˇ·. 21, 2024 1:52:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1215
+2024.11.21 13:52:18 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:18 INFO  time: compiled lab1 in 0.41s
+2024.11.21 13:52:20 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:20 INFO  time: compiled lab1 in 0.47s
+2024.11.21 13:52:37 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:37 INFO  time: compiled lab1 in 0.45s
+2024.11.21 13:52:39 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:39 INFO  time: compiled lab1 in 0.33s
+2024.11.21 13:52:41 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:52:41 INFO  time: compiled lab1 in 0.49s
+2024.11.21 13:53:13 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:53:13 INFO  time: compiled lab1 in 0.39s
+2024.11.21 13:53:16 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:53:16 INFO  time: compiled lab1 in 0.39s
+2024.11.21 13:53:19 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:53:19 INFO  time: compiled lab1 in 0.37s
+2024.11.21 13:58:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 13:58:04 INFO  time: compiled lab1 in 0.48s
+2024.11.21 14:03:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:03:30 INFO  time: compiled lab1 in 0.33s
+2024.11.21 14:03:52 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:03:52 INFO  time: compiled lab1 in 0.58s
+2024.11.21 14:05:54 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:05:54 INFO  time: compiled lab1 in 0.6s
+2024.11.21 14:06:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:03 INFO  time: compiled lab1 in 0.89s
+ÌÓˇ·. 21, 2024 2:06:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1766
+2024.11.21 14:06:14 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:14 INFO  time: compiled lab1 in 0.47s
+2024.11.21 14:06:16 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:16 INFO  time: compiled lab1 in 0.22s
+2024.11.21 14:06:19 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:19 INFO  time: compiled lab1 in 0.85s
+2024.11.21 14:06:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:28 INFO  time: compiled lab1 in 0.59s
+2024.11.21 14:06:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:31 INFO  time: compiled lab1 in 0.49s
+ÌÓˇ·. 21, 2024 2:06:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1966
+2024.11.21 14:06:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:47 INFO  time: compiled lab1 in 0.48s
+2024.11.21 14:06:50 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:50 INFO  time: compiled lab1 in 0.66s
+2024.11.21 14:06:58 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:06:58 INFO  time: compiled lab1 in 0.49s
+2024.11.21 14:07:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:07:08 INFO  time: compiled lab1 in 0.56s
+2024.11.21 14:07:11 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:07:11 INFO  time: compiled lab1 in 0.39s
+2024.11.21 14:08:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:04 INFO  time: compiled lab1 in 0.57s
+2024.11.21 14:08:22 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:22 INFO  time: compiled lab1 in 0.22s
+ÌÓˇ·. 21, 2024 2:08:25 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\»–»“\SCALA\lab1\.metals\.reports\metals-full\2024-11-21\r_compiler-error_(lab1)_14-08-25-040.md
+2024.11.21 14:08:26 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:26 INFO  time: compiled lab1 in 0.54s
+2024.11.21 14:08:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:31 INFO  time: compiled lab1 in 0.56s
+2024.11.21 14:08:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:34 INFO  time: compiled lab1 in 0.27s
+2024.11.21 14:08:36 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:36 INFO  time: compiled lab1 in 0.43s
+2024.11.21 14:08:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:43 INFO  time: compiled lab1 in 0.47s
+2024.11.21 14:08:56 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:56 INFO  time: compiled lab1 in 0.44s
+2024.11.21 14:08:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:08:57 INFO  time: compiled lab1 in 0.49s
+2024.11.21 14:10:00 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:00 INFO  time: compiled lab1 in 0.76s
+2024.11.21 14:10:07 INFO  time: compiled lab1 in 33ms
+2024.11.21 14:10:12 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:12 INFO  time: compiled lab1 in 0.42s
+2024.11.21 14:10:22 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:22 INFO  time: compiled lab1 in 0.24s
+2024.11.21 14:10:24 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:24 INFO  time: compiled lab1 in 0.45s
+2024.11.21 14:10:26 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:26 INFO  time: compiled lab1 in 0.49s
+2024.11.21 14:10:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:28 INFO  time: compiled lab1 in 0.28s
+2024.11.21 14:10:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:10:30 INFO  time: compiled lab1 in 0.38s
+2024.11.21 14:10:49 INFO  time: compiled lab1 in 27ms
+2024.11.21 14:11:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:03 INFO  time: compiled lab1 in 0.51s
+2024.11.21 14:11:05 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:05 INFO  time: compiled lab1 in 0.47s
+2024.11.21 14:11:24 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:24 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:11:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:28 INFO  time: compiled lab1 in 0.19s
+2024.11.21 14:11:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:31 INFO  time: compiled lab1 in 0.18s
+2024.11.21 14:11:33 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:33 INFO  time: compiled lab1 in 0.43s
+2024.11.21 14:11:41 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:41 INFO  time: compiled lab1 in 0.25s
+2024.11.21 14:11:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:43 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:11:46 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:46 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:11:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:11:49 INFO  time: compiled lab1 in 0.49s
+2024.11.21 14:12:05 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:05 INFO  time: compiled lab1 in 0.21s
+2024.11.21 14:12:09 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:09 INFO  time: compiled lab1 in 0.51s
+2024.11.21 14:12:22 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:22 INFO  time: compiled lab1 in 0.41s
+2024.11.21 14:12:25 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:25 INFO  time: compiled lab1 in 0.38s
+2024.11.21 14:12:29 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:29 INFO  time: compiled lab1 in 0.46s
+2024.11.21 14:12:37 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:37 INFO  time: compiled lab1 in 0.43s
+2024.11.21 14:12:44 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:12:44 INFO  time: compiled lab1 in 0.42s
+2024.11.21 14:13:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:06 INFO  time: compiled lab1 in 0.18s
+2024.11.21 14:13:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:08 INFO  time: compiled lab1 in 0.17s
+2024.11.21 14:13:11 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:11 INFO  time: compiled lab1 in 0.39s
+ÌÓˇ·. 21, 2024 2:13:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3198
+2024.11.21 14:13:44 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:44 INFO  time: compiled lab1 in 0.28s
+2024.11.21 14:13:45 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:45 INFO  time: compiled lab1 in 0.47s
+ÌÓˇ·. 21, 2024 2:13:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\»–»“\SCALA\lab1\.metals\.reports\metals-full\2024-11-21\r_compiler-error_(lab1)_14-13-46-455.md
+2024.11.21 14:13:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:47 INFO  time: compiled lab1 in 0.44s
+2024.11.21 14:13:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:49 INFO  time: compiled lab1 in 0.39s
+2024.11.21 14:13:53 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:53 INFO  time: compiled lab1 in 0.22s
+2024.11.21 14:13:58 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:13:58 INFO  time: compiled lab1 in 0.54s
+2024.11.21 14:14:13 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:14:13 INFO  time: compiled lab1 in 0.54s
+2024.11.21 14:14:32 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:14:32 INFO  time: compiled lab1 in 0.48s
+2024.11.21 14:15:27 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:15:27 INFO  time: compiled lab1 in 0.61s
+2024.11.21 14:15:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:15:30 INFO  time: compiled lab1 in 0.48s
+2024.11.21 14:20:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:20:28 INFO  time: compiled lab1 in 0.52s
+2024.11.21 14:20:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:20:34 INFO  time: compiled lab1 in 0.44s
+ÌÓˇ·. 21, 2024 2:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3492
+2024.11.21 14:20:42 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:20:42 INFO  time: compiled lab1 in 0.5s
+2024.11.21 14:20:44 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:20:44 INFO  time: compiled lab1 in 0.45s
+2024.11.21 14:20:55 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:20:55 INFO  time: compiled lab1 in 0.23s
+2024.11.21 14:20:58 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:20:58 INFO  time: compiled lab1 in 0.19s
+2024.11.21 14:21:02 INFO  time: compiled lab1 in 17ms
+2024.11.21 14:21:21 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:21:21 INFO  time: compiled lab1 in 0.43s
+2024.11.21 14:21:26 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:21:26 INFO  time: compiled lab1 in 0.52s
+2024.11.21 14:22:10 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:10 INFO  time: compiled lab1 in 0.26s
+2024.11.21 14:22:14 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:14 INFO  time: compiled lab1 in 0.17s
+2024.11.21 14:22:15 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:15 INFO  time: compiled lab1 in 0.18s
+2024.11.21 14:22:18 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:18 INFO  time: compiled lab1 in 0.42s
+2024.11.21 14:22:28 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:28 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:22:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:31 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:22:33 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:33 INFO  time: compiled lab1 in 0.19s
+2024.11.21 14:22:35 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:35 INFO  time: compiled lab1 in 0.15s
+2024.11.21 14:22:40 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:40 INFO  time: compiled lab1 in 0.39s
+2024.11.21 14:22:43 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:43 INFO  time: compiled lab1 in 0.25s
+2024.11.21 14:22:45 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:45 INFO  time: compiled lab1 in 0.17s
+2024.11.21 14:22:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:22:49 INFO  time: compiled lab1 in 0.33s
+2024.11.21 14:23:02 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:02 INFO  time: compiled lab1 in 0.41s
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4019
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4021
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4022
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4023
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4030
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4031
+ÌÓˇ·. 21, 2024 2:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4033
+2024.11.21 14:23:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:06 INFO  time: compiled lab1 in 0.42s
+ÌÓˇ·. 21, 2024 2:23:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4098
+ÌÓˇ·. 21, 2024 2:23:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4121
+2024.11.21 14:23:24 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:24 INFO  time: compiled lab1 in 0.38s
+2024.11.21 14:23:47 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:47 INFO  time: compiled lab1 in 0.4s
+2024.11.21 14:23:53 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:53 INFO  time: compiled lab1 in 0.45s
+2024.11.21 14:23:54 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:55 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+2024.11.21 14:23:54 INFO  time: compiled lab1 in 0.53s
+2024.11.21 14:23:56 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:23:56 INFO  time: compiled lab1 in 0.39s
+2024.11.21 14:24:00 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:24:00 INFO  time: compiled lab1 in 0.53s
+2024.11.21 14:24:04 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:24:04 INFO  time: compiled lab1 in 0.42s
+2024.11.21 14:24:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:24:06 INFO  time: compiled lab1 in 0.52s
+2024.11.21 14:25:52 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:25:52 INFO  time: compiled lab1 in 0.51s
+2024.11.21 14:26:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:26:31 INFO  time: compiled lab1 in 0.28s
+2024.11.21 14:26:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:26:34 INFO  time: compiled lab1 in 0.21s
+2024.11.21 14:26:40 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:26:40 INFO  time: compiled lab1 in 0.37s
+2024.11.21 14:26:57 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:26:57 INFO  time: compiled lab1 in 0.22s
+2024.11.21 14:26:59 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:26:59 INFO  time: compiled lab1 in 0.37s
+2024.11.21 14:27:01 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:27:01 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:27:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:27:06 INFO  time: compiled lab1 in 0.18s
+2024.11.21 14:27:12 INFO  time: compiled lab1 in 21ms
+ÌÓˇ·. 21, 2024 2:27:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4533
+2024.11.21 14:27:14 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:27:14 INFO  time: compiled lab1 in 0.35s
+2024.11.21 14:27:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:27:31 INFO  time: compiled lab1 in 0.39s
+2024.11.21 14:27:39 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:27:39 INFO  time: compiled lab1 in 0.4s
+2024.11.21 14:27:49 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:27:49 INFO  time: compiled lab1 in 0.49s
+2024.11.21 14:29:30 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:29:30 INFO  time: compiled lab1 in 0.24s
+2024.11.21 14:29:33 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:29:33 INFO  time: compiled lab1 in 0.5s
+2024.11.21 14:29:58 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:29:58 INFO  time: compiled lab1 in 0.38s
+2024.11.21 14:32:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:32:34 INFO  time: compiled lab1 in 0.56s
+2024.11.21 14:32:54 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:32:54 INFO  time: compiled lab1 in 0.43s
+2024.11.21 14:34:06 ERROR D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.21 14:34:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:34:06 INFO  time: compiled lab1 in 0.26s
+2024.11.21 14:34:11 INFO  time: compiled lab1 in 24ms
+2024.11.21 14:34:16 ERROR D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.21 14:34:16 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:34:16 INFO  time: compiled lab1 in 0.18s
+2024.11.21 14:34:18 ERROR D:\»–»“\SCALA\lab1\src\main\scala\Main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.21 14:34:18 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:34:18 INFO  time: compiled lab1 in 0.36s
+2024.11.21 14:34:22 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:34:22 INFO  time: compiled lab1 in 0.48s
+ÌÓˇ·. 21, 2024 2:34:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5034
+2024.11.21 14:34:44 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:34:44 INFO  time: compiled lab1 in 0.42s
+2024.11.21 14:35:24 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:35:24 INFO  time: compiled lab1 in 0.2s
+2024.11.21 14:35:31 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:35:31 INFO  time: compiled lab1 in 0.21s
+2024.11.21 14:35:34 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:35:34 INFO  time: compiled lab1 in 0.4s
+ÌÓˇ·. 21, 2024 2:35:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5222
+2024.11.21 14:35:45 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:35:45 INFO  time: compiled lab1 in 0.47s
+2024.11.21 14:35:46 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:35:46 INFO  time: compiled lab1 in 0.49s
+2024.11.21 14:35:54 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:35:54 INFO  time: compiled lab1 in 0.45s
+2024.11.21 14:36:02 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:36:02 INFO  time: compiled lab1 in 0.44s
+2024.11.21 14:36:03 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:36:03 INFO  time: compiled lab1 in 0.41s
+2024.11.21 14:36:06 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:36:06 INFO  time: compiled lab1 in 0.38s
+2024.11.21 14:36:08 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:36:08 INFO  time: compiled lab1 in 0.69s
+2024.11.21 14:36:18 INFO  compiling lab1 (1 scala source)
+2024.11.21 14:36:18 INFO  time: compiled lab1 in 0.49s
