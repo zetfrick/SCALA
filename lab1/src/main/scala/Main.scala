@@ -15,7 +15,7 @@ object Main extends App {
   val (even, odd) = splitIndex(nums) // filter и map
   println("Четные: " + even.mkString(" "))
   println("Нечетные: " + odd.mkString(" "))
-  Max(nums) // reduce
+  max(nums) // reduce
 
   println("\n4\n")
   // Помещаем функцию в переменную
@@ -32,7 +32,7 @@ object Main extends App {
   println(compose(first, second)(10))
 }
 
-@main def hello() = println("hello world")
+def hello(): Unit = println("hello world")
 
 def printHello5(n: Int): Unit = {
   for (i <- 1 to n) {
@@ -58,8 +58,8 @@ def splitIndex(nums: List[Int]): (List[Int], List[Int]) = {
   (even, odd)
 }
 
-def Max(nums: List[Int]) = {
-  println("Максимальное число = " + nums.reduce((a, b) => if (a > b) a else b))
+def max(nums: List[Int]) = {
+  println(nums.reduce((a, b) => if (a > b) a else b))
 }
 
 def process(nums: List[Int]): Unit = {
