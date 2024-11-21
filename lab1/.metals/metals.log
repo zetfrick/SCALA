@@ -933,3 +933,16 @@ WARNING: Unmatched cancel notification for request id 6467
 2024.11.21 15:38:19 INFO  Shut down connection with build server.
 2024.11.21 15:38:19 INFO  Exiting server
 2024.11.21 15:38:54 INFO  Started: Metals version 1.4.1 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.95.3.
+2024.11.21 15:38:55 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.21 15:38:55 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.21 15:38:55 INFO  Attempting to connect to the build server...
+2024.11.21 15:38:55 INFO  Found a Bloop server running
+2024.11.21 15:38:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 15:38:57 INFO  Attempting to connect to the build server...
+2024.11.21 15:38:57 INFO  Found a Bloop server running
+2024.11.21 15:38:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.21 15:38:57 INFO  time: Connected to build server in 2.19s
+2024.11.21 15:38:57 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.21 15:38:58 INFO  time: Imported build in 0.12s
+2024.11.21 15:38:58 INFO  running doctor check
+2024.11.21 15:38:58 INFO  java targets: lab1-build, lab1, lab1-test
