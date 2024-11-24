@@ -1,0 +1,31 @@
+2024.11.24 17:27:50 INFO  Started: Metals version 1.4.1 in folders 'D:\»–»“\SCALA' for client Visual Studio Code 1.95.3.
+2024.11.24 17:27:51 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 17:27:51 INFO  Attempting to connect to the build server...
+2024.11.24 17:27:51 INFO  No running Bloop server found, starting one.
+2024.11.24 17:27:54 INFO  Starting compilation server
+2024.11.24 17:28:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:28:01 INFO  time: Connected to build server in 10s
+2024.11.24 17:28:01 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.24 17:28:01 INFO  time: Imported build in 0.14s
+2024.11.24 17:28:01 INFO  running doctor check
+2024.11.24 17:28:01 INFO  java targets: 
+2024.11.24 17:28:04 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 17:28:04 INFO  time: indexed workspace in 3.01s
+2024.11.24 17:28:10 ERROR SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024.11.24 17:28:10 ERROR SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024.11.24 17:28:10 ERROR SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024.11.24 17:28:14 INFO  
+2024.11.24 17:28:14 INFO  Template applied in D:\»–»“\SCALA\.\lab2
+2024.11.24 17:28:14 INFO  
+2024.11.24 17:28:14 INFO  time: ran 'giter8.Giter8' in 5.31s
+ÌÓˇ·. 24, 2024 5:28:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.24 17:30:31 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:30:32 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:30:32 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:30:36 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:30:38 INFO  time: code lens generation in 2.32s
+2024.11.24 17:30:40 INFO  Shutting down server
+2024.11.24 17:30:40 INFO  shutting down Metals
+2024.11.24 17:30:40 INFO  Shut down connection with build server.
+2024.11.24 17:30:40 INFO  Exiting server

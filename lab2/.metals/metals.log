@@ -1,0 +1,1456 @@
+2024.11.24 17:28:26 INFO  Started: Metals version 1.4.1 in folders 'D:\ÈÐÈÒ\SCALA\lab2' for client Visual Studio Code 1.95.3.
+2024.11.24 17:28:27 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 17:30:46 INFO  running 'C:\Users\fsome\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\fsome\AppData\Local\Temp\metals8299349896360140328\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.24 17:30:51 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:30:51 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:30:54 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17)
+2024.11.24 17:30:56 INFO  [info] loading settings for project lab2-build-build from metals.sbt ...
+2024.11.24 17:30:56 INFO  [info] loading project definition from D:\Ð?Ð Ð?Ð¢\SCALA\lab2\project\project
+2024.11.24 17:31:00 INFO  [info] loading settings for project lab2-build from metals.sbt ...
+2024.11.24 17:31:00 INFO  [info] loading project definition from D:\Ð?Ð Ð?Ð¢\SCALA\lab2\project
+2024.11.24 17:31:04 INFO  [success] Generated .bloop\lab2-build.json
+2024.11.24 17:31:04 INFO  [success] Total time: 5 s, completed 24 Ð½Ð¾ÑÐ±. 2024 Ð³., 17:31:05
+2024.11.24 17:31:06 INFO  [info] loading settings for project lab2 from build.sbt ...
+2024.11.24 17:31:06 INFO  [info] set current project to hello-world (in build file:/D:/Ð?Ð Ð?Ð¢/SCALA/lab2/)
+2024.11.24 17:31:06 INFO  [success] Generated .bloop\lab2-test.json
+2024.11.24 17:31:06 INFO  [success] Generated .bloop\lab2.json
+2024.11.24 17:31:06 INFO  [success] Total time: 1 s, completed 24 Ð½Ð¾ÑÐ±. 2024 Ð³., 17:31:07
+2024.11.24 17:31:07 INFO  time: ran 'sbt bloopInstall' in 21s
+2024.11.24 17:31:07 INFO  Attempting to connect to the build server...
+2024.11.24 17:31:07 INFO  Found a Bloop server running
+2024.11.24 17:31:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:31:09 INFO  Attempting to connect to the build server...
+2024.11.24 17:31:09 INFO  Found a Bloop server running
+2024.11.24 17:31:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:31:08 INFO  time: Connected to build server in 1.85s
+2024.11.24 17:31:08 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.24 17:31:09 INFO  time: Imported build in 0.18s
+2024.11.24 17:31:09 INFO  running doctor check
+2024.11.24 17:31:09 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.24 17:31:12 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 17:31:26 INFO  time: indexed workspace in 16s
+2024.11.24 17:31:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:31:31 INFO  time: compiled lab2 in 3.84s
+2024.11.24 17:38:10 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:38:10 INFO  time: compiled lab2 in 0.41s
+2024.11.24 17:38:31 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:38:31 INFO  time: compiled lab2 in 0.2s
+2024.11.24 17:38:58 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:38:58 INFO  time: compiled lab2 in 0.21s
+2024.11.24 17:39:02 INFO  time: compiled lab2 in 26ms
+2024.11.24 17:39:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:06 INFO  time: compiled lab2 in 0.17s
+2024.11.24 17:39:10 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:10 INFO  time: compiled lab2 in 0.18s
+2024.11.24 17:39:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:14 INFO  time: compiled lab2 in 0.21s
+2024.11.24 17:39:15 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:15 INFO  time: compiled lab2 in 0.14s
+2024.11.24 17:39:23 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:23 INFO  time: compiled lab2 in 0.14s
+2024.11.24 17:39:26 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:26 INFO  time: compiled lab2 in 0.13s
+2024.11.24 17:39:44 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:39:44 INFO  time: compiled lab2 in 0.17s
+2024.11.24 17:40:16 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:40:16 INFO  time: compiled lab2 in 0.15s
+2024.11.24 17:40:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:40:24 INFO  time: compiled lab2 in 0.16s
+2024.11.24 17:40:33 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:40:33 INFO  time: compiled lab2 in 0.16s
+2024.11.24 17:41:35 INFO  Shutting down server
+2024.11.24 17:41:35 INFO  shutting down Metals
+2024.11.24 17:41:35 INFO  Shut down connection with build server.
+2024.11.24 17:41:35 INFO  Shut down connection with build server.
+2024.11.24 17:41:35 INFO  Exiting server
+2024.11.24 17:42:05 INFO  Started: Metals version 1.4.1 in folders 'D:\ÈÐÈÒ\SCALA\lab2' for client Visual Studio Code 1.95.3.
+2024.11.24 17:42:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 17:42:06 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:42:09 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 17:42:09 INFO  Attempting to connect to the build server...
+2024.11.24 17:42:09 INFO  Found a Bloop server running
+2024.11.24 17:42:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:42:09 INFO  Attempting to connect to the build server...
+2024.11.24 17:42:09 INFO  Found a Bloop server running
+2024.11.24 17:42:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:42:10 INFO  time: Connected to build server in 1.58s
+2024.11.24 17:42:10 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.24 17:42:10 INFO  running doctor check
+2024.11.24 17:42:10 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.24 17:42:17 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 17:42:19 INFO  time: indexed workspace in 8.69s
+2024.11.24 17:42:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:42:27 INFO  time: compiled lab2 in 0.32s
+2024.11.24 17:42:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:42:27 INFO  time: compiled lab2 in 0.23s
+2024.11.24 17:42:29 INFO  Disconnecting from Bloop session...
+2024.11.24 17:42:29 INFO  Shut down connection with build server.
+2024.11.24 17:42:29 INFO  Shut down connection with build server.
+2024.11.24 17:42:30 INFO  Attempting to connect to the build server...
+2024.11.24 17:42:30 INFO  No running Bloop server found, starting one.
+2024.11.24 17:42:33 INFO  Starting compilation server
+2024.11.24 17:42:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:42:39 INFO  Attempting to connect to the build server...
+2024.11.24 17:42:39 INFO  Found a Bloop server running
+2024.11.24 17:42:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:42:40 INFO  time: Connected to build server in 10s
+2024.11.24 17:42:40 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.24 17:42:40 INFO  time: Imported build in 0.18s
+2024.11.24 17:42:40 INFO  running doctor check
+2024.11.24 17:42:40 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.24 17:42:43 INFO  time: indexed workspace in 2.69s
+2024.11.24 17:42:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:42:45 INFO  time: compiled lab2 in 1.62s
+2024.11.24 17:42:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:42:57 INFO  time: compiled lab2 in 0.21s
+2024.11.24 17:43:02 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:43:02 INFO  time: compiled lab2 in 0.22s
+2024.11.24 17:43:35 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:43:35 INFO  time: compiled lab2 in 0.19s
+2024.11.24 17:44:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:44:04 INFO  time: compiled lab2 in 0.2s
+2024.11.24 17:44:07 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:44:07 INFO  time: compiled lab2 in 0.25s
+2024.11.24 17:44:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:44:11 INFO  time: compiled lab2 in 2.6s
+2024.11.24 17:44:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:44:30 INFO  time: compiled lab2 in 1.54s
+2024.11.24 17:44:45 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:44:48 INFO  time: compiled lab2 in 2.6s
+2024.11.24 17:44:59 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:44:59 INFO  time: compiled lab2 in 0.16s
+2024.11.24 17:45:01 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:01 INFO  time: compiled lab2 in 0.14s
+2024.11.24 17:45:34 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:34 INFO  time: compiled lab2 in 0.16s
+2024.11.24 17:45:37 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:37 INFO  time: compiled lab2 in 0.14s
+2024.11.24 17:45:39 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:39 INFO  time: compiled lab2 in 0.15s
+2024.11.24 17:45:41 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:41 INFO  time: compiled lab2 in 0.12s
+2024.11.24 17:45:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:43 INFO  time: compiled lab2 in 0.13s
+2024.11.24 17:45:49 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:49 INFO  time: compiled lab2 in 0.13s
+2024.11.24 17:45:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:57 INFO  time: compiled lab2 in 0.14s
+2024.11.24 17:45:58 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:45:58 INFO  time: compiled lab2 in 0.18s
+2024.11.24 17:46:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:46:48 INFO  time: compiled lab2 in 0.15s
+íîÿá. 24, 2024 5:46:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 384
+íîÿá. 24, 2024 5:46:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 386
+2024.11.24 17:46:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:46:53 INFO  time: compiled lab2 in 0.12s
+2024.11.24 17:48:09 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:48:12 INFO  time: compiled lab2 in 2.22s
+2024.11.24 17:49:22 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:49:24 INFO  time: compiled lab2 in 2.13s
+2024.11.24 17:51:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:51:00 INFO  time: compiled lab2 in 0.22s
+2024.11.24 17:51:07 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:51:07 INFO  time: compiled lab2 in 0.23s
+2024.11.24 17:51:35 INFO  time: code lens generation in 4.79s
+2024.11.24 17:51:57 INFO  running 'C:\Users\fsome\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\fsome\AppData\Local\Temp\metals17859569731079187301\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.24 17:52:01 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:52:01 INFO  time: compiled lab2 in 0.15s
+2024.11.24 17:52:05 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17)
+2024.11.24 17:52:05 INFO  [info] loading settings for project lab2-build-build from metals.sbt ...
+2024.11.24 17:52:07 INFO  [info] loading project definition from D:\Ð?Ð Ð?Ð¢\SCALA\lab2\project\project
+2024.11.24 17:52:08 INFO  [info] loading settings for project lab2-build from metals.sbt ...
+2024.11.24 17:52:08 INFO  [info] loading project definition from D:\Ð?Ð Ð?Ð¢\SCALA\lab2\project
+2024.11.24 17:52:09 INFO  time: compiled lab2 in 23ms
+2024.11.24 17:52:11 INFO  [success] Generated .bloop\lab2-build.json
+2024.11.24 17:52:11 INFO  [success] Total time: 3 s, completed 24 Ð½Ð¾ÑÐ±. 2024 Ð³., 17:52:12
+2024.11.24 17:52:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:52:14 INFO  time: compiled lab2 in 1.65s
+2024.11.24 17:52:14 INFO  [info] loading settings for project lab2 from build.sbt ...
+2024.11.24 17:52:14 INFO  [info] set current project to hello-world (in build file:/D:/Ð?Ð Ð?Ð¢/SCALA/lab2/)
+2024.11.24 17:52:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:52:14 INFO  time: compiled lab2 in 83ms
+2024.11.24 17:52:15 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+2024.11.24 17:52:16 INFO  [success] Generated .bloop\lab2.json
+2024.11.24 17:52:16 INFO  [success] Generated .bloop\lab2-test.json
+2024.11.24 17:52:16 INFO  [success] Total time: 2 s, completed 24 Ð½Ð¾ÑÐ±. 2024 Ð³., 17:52:16
+2024.11.24 17:52:16 INFO  time: ran 'sbt bloopInstall' in 18s
+2024.11.24 17:52:16 INFO  Disconnecting from Bloop session...
+2024.11.24 17:52:16 INFO  Shut down connection with build server.
+2024.11.24 17:52:16 INFO  Shut down connection with build server.
+2024.11.24 17:52:16 INFO  Attempting to connect to the build server...
+2024.11.24 17:52:16 INFO  Found a Bloop server running
+2024.11.24 17:52:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:52:19 INFO  Attempting to connect to the build server...
+2024.11.24 17:52:19 INFO  Found a Bloop server running
+2024.11.24 17:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:52:20 INFO  time: Connected to build server in 3.96s
+2024.11.24 17:52:20 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.24 17:52:20 INFO  running doctor check
+2024.11.24 17:52:20 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.24 17:52:27 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src\main\scala
+íîÿá. 24, 2024 5:52:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 581
+2024.11.24 17:52:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:52:32 INFO  time: indexed workspace in 11s
+2024.11.24 17:52:32 INFO  Deduplicating compilation of lab2 from bsp client 'Metals 1.4.1' (since 15.079s)
+2024.11.24 17:52:32 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:52:34 INFO  time: compiled lab2 in 2.48s
+2024.11.24 17:52:34 INFO  skipping build import with status 'Installed'
+2024.11.24 17:52:34 INFO  Disconnecting from Bloop session...
+2024.11.24 17:52:34 INFO  Shut down connection with build server.
+2024.11.24 17:52:34 INFO  Shut down connection with build server.
+2024.11.24 17:52:34 INFO  Attempting to connect to the build server...
+2024.11.24 17:52:34 INFO  Found a Bloop server running
+2024.11.24 17:52:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:52:35 INFO  Attempting to connect to the build server...
+2024.11.24 17:52:35 INFO  Found a Bloop server running
+2024.11.24 17:52:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.24 17:52:35 INFO  time: Connected to build server in 1.12s
+2024.11.24 17:52:35 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.24 17:52:36 INFO  running doctor check
+2024.11.24 17:52:36 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.24 17:52:37 INFO  time: indexed workspace in 1.87s
+2024.11.24 17:52:44 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:52:45 INFO  time: compiled lab2 in 1.3s
+2024.11.24 17:53:02 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:53:04 INFO  time: compiled lab2 in 1.86s
+2024.11.24 17:53:09 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/Main.scala
+2024.11.24 17:53:10 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:53:10 INFO  time: compiled lab2 in 0.19s
+2024.11.24 17:53:10 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/Main.scala
+2024.11.24 17:53:13 INFO  time: compiled lab2 in 22ms
+2024.11.24 17:53:18 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:53:19 INFO  time: compiled lab2 in 1.41s
+íîÿá. 24, 2024 5:53:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 718
+2024.11.24 17:53:26 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:53:26 INFO  time: compiled lab2 in 0.86s
+2024.11.24 17:53:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:53:30 INFO  time: compiled lab2 in 0.94s
+2024.11.24 17:54:45 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:54:45 INFO  time: compiled lab2 in 0.95s
+2024.11.24 17:55:34 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:55:34 INFO  time: compiled lab2 in 0.73s
+2024.11.24 17:56:36 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:36 INFO  time: compiled lab2 in 0.67s
+2024.11.24 17:56:37 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:37 INFO  time: compiled lab2 in 0.65s
+2024.11.24 17:56:42 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:42 INFO  time: compiled lab2 in 0.88s
+2024.11.24 17:56:46 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:46 INFO  time: compiled lab2 in 0.58s
+2024.11.24 17:56:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:48 INFO  time: compiled lab2 in 0.8s
+2024.11.24 17:56:52 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:52 INFO  time: compiled lab2 in 0.54s
+2024.11.24 17:56:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:56:56 INFO  time: compiled lab2 in 0.57s
+2024.11.24 17:57:10 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:57:10 INFO  time: compiled lab2 in 0.59s
+2024.11.24 17:57:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:57:13 INFO  time: compiled lab2 in 0.49s
+2024.11.24 17:57:37 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:57:37 INFO  time: compiled lab2 in 0.49s
+2024.11.24 17:58:19 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:19 INFO  time: compiled lab2 in 0.25s
+2024.11.24 17:58:23 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:23 INFO  time: compiled lab2 in 0.58s
+2024.11.24 17:58:36 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:36 INFO  time: compiled lab2 in 0.57s
+2024.11.24 17:58:39 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:39 INFO  time: compiled lab2 in 0.48s
+2024.11.24 17:58:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:48 INFO  time: compiled lab2 in 0.2s
+2024.11.24 17:58:49 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:49 INFO  time: compiled lab2 in 0.18s
+2024.11.24 17:58:50 INFO  time: compiled lab2 in 28ms
+2024.11.24 17:58:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:53 INFO  time: compiled lab2 in 0.47s
+2024.11.24 17:58:55 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:55 INFO  time: compiled lab2 in 0.53s
+2024.11.24 17:58:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:56 INFO  time: compiled lab2 in 0.4s
+2024.11.24 17:58:59 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:58:59 INFO  time: compiled lab2 in 0.47s
+2024.11.24 17:59:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:59:00 INFO  time: compiled lab2 in 0.43s
+íîÿá. 24, 2024 5:59:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1130
+2024.11.24 17:59:03 INFO  compiling lab2 (1 scala source)
+2024.11.24 17:59:03 INFO  time: compiled lab2 in 0.43s
+2024.11.24 18:03:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:03:57 INFO  time: compiled lab2 in 0.76s
+2024.11.24 18:04:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:04:11 INFO  time: compiled lab2 in 0.52s
+2024.11.24 18:04:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:04:14 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+íîÿá. 24, 2024 6:04:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1200
+2024.11.24 18:04:13 INFO  time: compiled lab2 in 0.64s
+2024.11.24 18:04:16 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:04:16 INFO  time: compiled lab2 in 0.48s
+2024.11.24 18:05:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:05:08 INFO  time: compiled lab2 in 0.52s
+2024.11.24 18:05:21 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:05:21 INFO  time: compiled lab2 in 0.49s
+2024.11.24 18:05:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:05:29 INFO  time: compiled lab2 in 0.46s
+2024.11.24 18:05:50 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:05:50 INFO  time: compiled lab2 in 0.53s
+íîÿá. 24, 2024 6:18:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1411
+íîÿá. 24, 2024 6:19:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1428
+íîÿá. 24, 2024 6:19:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1430
+íîÿá. 24, 2024 6:19:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1433
+íîÿá. 24, 2024 6:19:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1436
+íîÿá. 24, 2024 6:19:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1438
+2024.11.24 18:19:03 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:03 INFO  time: compiled lab2 in 0.24s
+2024.11.24 18:19:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:06 INFO  time: compiled lab2 in 0.54s
+2024.11.24 18:19:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:11 INFO  time: compiled lab2 in 0.51s
+2024.11.24 18:19:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:12 INFO  time: compiled lab2 in 0.46s
+íîÿá. 24, 2024 6:19:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1525
+2024.11.24 18:19:21 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:21 INFO  time: compiled lab2 in 0.42s
+2024.11.24 18:19:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:30 INFO  time: compiled lab2 in 0.43s
+2024.11.24 18:19:34 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:34 INFO  time: compiled lab2 in 0.42s
+2024.11.24 18:19:39 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:19:39 INFO  time: compiled lab2 in 0.46s
+2024.11.24 18:20:21 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:20:21 INFO  time: compiled lab2 in 0.24s
+2024.11.24 18:20:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:20:24 INFO  time: compiled lab2 in 0.49s
+2024.11.24 18:20:33 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:20:33 INFO  time: compiled lab2 in 0.42s
+2024.11.24 18:20:41 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:20:41 INFO  time: compiled lab2 in 0.44s
+2024.11.24 18:20:46 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:20:46 INFO  time: compiled lab2 in 0.46s
+íîÿá. 24, 2024 6:21:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2046
+íîÿá. 24, 2024 6:21:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2113
+2024.11.24 18:21:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:21:11 INFO  time: compiled lab2 in 0.45s
+2024.11.24 18:21:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:21:17 INFO  time: compiled lab2 in 0.56s
+2024.11.24 18:21:21 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:21:21 INFO  time: compiled lab2 in 0.38s
+2024.11.24 18:21:47 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:21:47 INFO  time: compiled lab2 in 0.95s
+2024.11.24 18:22:02 INFO  time: compiled lab2 in 21ms
+2024.11.24 18:25:59 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:25:59 INFO  time: compiled lab2 in 0.27s
+2024.11.24 18:26:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:26:04 INFO  time: compiled lab2 in 0.54s
+2024.11.24 18:26:05 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:26:05 INFO  time: compiled lab2 in 0.61s
+2024.11.24 18:26:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:26:08 INFO  time: compiled lab2 in 0.46s
+2024.11.24 18:26:15 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:26:15 INFO  time: compiled lab2 in 0.5s
+2024.11.24 18:26:22 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:26:22 INFO  time: compiled lab2 in 0.6s
+2024.11.24 18:26:23 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+2024.11.24 18:26:46 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+2024.11.24 18:26:51 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+2024.11.24 18:26:54 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+2024.11.24 18:26:54 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+2024.11.24 18:27:01 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number1.scala
+2024.11.24 18:27:02 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:27:02 INFO  time: compiled lab2 in 0.46s
+2024.11.24 18:29:25 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:29:25 INFO  time: compiled lab2 in 0.71s
+2024.11.24 18:29:32 INFO  time: compiled lab2 in 32ms
+Exception in thread "metals-watch-callback-thread" java.nio.file.FileSystemException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number2.scala: Ïðîöåññ íå ìîæåò ïîëó÷èòü äîñòóï ê ôàéëó, òàê êàê ýòîò ôàéë çàíÿò äðóãèì ïðîöåññîì
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.toInputFromBuffers(MetalsEnrichments.scala:621)
+	at scala.meta.internal.metals.Compilers.originInput$1(Compilers.scala:228)
+	at scala.meta.internal.metals.Compilers.$anonfun$didChange$2(Compilers.scala:244)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.Compilers.$anonfun$didChange$1(Compilers.scala:243)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.didChange(Compilers.scala:231)
+	at scala.meta.internal.metals.MetalsLspService.onCreate(MetalsLspService.scala:384)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChangeWatchedFiles(ProjectMetalsLspService.scala:417)
+	at scala.meta.internal.metals.ProjectMetalsLspService.$anonfun$fileWatcher$3(ProjectMetalsLspService.scala:114)
+	at scala.meta.internal.metals.ProjectMetalsLspService.$anonfun$fileWatcher$3$adapted(ProjectMetalsLspService.scala:113)
+	at scala.meta.internal.metals.watcher.ProjectFileWatcher$$anon$1.loop(ProjectFileWatcher.scala:199)
+	at scala.meta.internal.metals.watcher.ProjectFileWatcher$$anon$1.run(ProjectFileWatcher.scala:203)
+2024.11.24 18:32:38 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:32:38 INFO  time: compiled lab2 in 0.38s
+2024.11.24 18:32:46 INFO  compiling lab2 (1 scala source)
+2024.11.24 18:32:46 INFO  time: compiled lab2 in 0.53s
+2024.11.24 20:07:39 INFO  compiling lab2 (2 scala sources)
+2024.11.24 20:07:39 INFO  time: compiled lab2 in 0.78s
+2024.11.24 20:07:54 INFO  compiling lab2 (2 scala sources)
+2024.11.24 20:07:54 INFO  time: compiled lab2 in 0.61s
+2024.11.24 20:07:58 INFO  compiling lab2 (2 scala sources)
+2024.11.24 20:07:58 INFO  time: compiled lab2 in 0.59s
+2024.11.24 20:08:14 INFO  compiling lab2 (2 scala sources)
+2024.11.24 20:08:15 INFO  time: compiled lab2 in 1.08s
+2024.11.24 20:08:20 INFO  compiling lab2 (2 scala sources)
+2024.11.24 20:08:20 INFO  time: compiled lab2 in 0.97s
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:6:5: stale bloop error: Not found: Try
+    Try {
+    ^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:20:12: stale bloop error: no pattern match extractor named Success was found
+      case Success(value) => value
+           ^^^^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:20:30: stale bloop error: Found:    (value : Any)
+Required: Either[Boolean, String]
+      case Success(value) => value
+                             ^^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:21:12: stale bloop error: no pattern match extractor named Failure was found
+      case Failure(_) => Left(false)
+           ^^^^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:32:22: stale bloop error: Values of types Boolean and String cannot be compared with == or !=
+          case Right(true) => return password
+                     ^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:32:38: stale bloop error: Found:    (password : String)
+Required: scala.concurrent.Future[String]
+          case Right(true) => return password
+                                     ^^^^^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:46:12: stale bloop error: no pattern match extractor named Success was found
+      case Success(password) => println(s"Your password is: $password")
+           ^^^^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:47:12: stale bloop error: no pattern match extractor named Failure was found
+      case Failure(exception) => println(s"An error occurred: ${exception.getMessage}")
+           ^^^^^^^
+2024.11.24 20:08:32 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:47:65: stale bloop error: value getMessage is not a member of Any
+      case Failure(exception) => println(s"An error occurred: ${exception.getMessage}")
+                                                                ^^^^^^^^^^^^^^^^^^^^
+2024.11.24 20:08:32 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala
+2024.11.24 20:08:33 INFO  compiling lab2 (2 scala sources)
+2024.11.24 20:08:33 INFO  time: compiled lab2 in 0.57s
+2024.11.24 20:08:33 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala
+2024.11.24 20:11:05 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:11:05 INFO  time: compiled lab2 in 0.96s
+2024.11.24 20:11:56 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:23:30: stale bloop error: Found:    (value : Either[String, Boolean])
+Required: Either[Boolean, String]
+      case Success(value) => value
+                             ^^^^^
+2024.11.24 20:11:56 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:36:22: stale bloop error: Values of types Boolean and String cannot be compared with == or !=
+          case Right(true) => return password // Ïàðîëü ñîîòâåòñòâóåò âñåì óñëîâèÿì
+                     ^^^^
+2024.11.24 20:11:56 INFO  file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala:36:38: stale bloop error: Found:    (password : String)
+Required: scala.concurrent.Future[String]
+          case Right(true) => return password // Ïàðîëü ñîîòâåòñòâóåò âñåì óñëîâèÿì
+                                     ^^^^^^^^
+2024.11.24 20:11:56 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala
+2024.11.24 20:11:57 INFO  time: compiled lab2 in 31ms
+2024.11.24 20:11:57 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab2/src/main/scala/number2.scala
+2024.11.24 20:13:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:13:25 INFO  time: compiled lab2 in 1s
+2024.11.24 20:14:33 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:14:33 INFO  time: compiled lab2 in 0.95s
+2024.11.24 20:15:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:15:04 INFO  time: compiled lab2 in 0.48s
+2024.11.24 20:16:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:16:06 INFO  time: compiled lab2 in 0.56s
+2024.11.24 20:16:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:16:17 INFO  time: compiled lab2 in 0.23s
+2024.11.24 20:16:26 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:16:26 INFO  time: compiled lab2 in 0.51s
+2024.11.24 20:19:55 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:19:55 INFO  time: compiled lab2 in 0.23s
+2024.11.24 20:20:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:20:43 INFO  time: compiled lab2 in 0.6s
+2024.11.24 20:20:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:20:53 INFO  time: compiled lab2 in 0.28s
+2024.11.24 20:20:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:20:57 INFO  time: compiled lab2 in 0.55s
+2024.11.24 20:21:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:21:17 INFO  time: compiled lab2 in 0.52s
+2024.11.24 20:21:32 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:21:32 INFO  time: compiled lab2 in 0.53s
+2024.11.24 20:21:34 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:21:34 INFO  time: compiled lab2 in 0.49s
+2024.11.24 20:21:45 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:21:45 INFO  time: compiled lab2 in 0.48s
+2024.11.24 20:21:47 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:21:47 INFO  time: compiled lab2 in 0.47s
+2024.11.24 20:23:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:23:11 INFO  time: compiled lab2 in 0.6s
+2024.11.24 20:27:42 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:27:42 INFO  time: compiled lab2 in 0.13s
+2024.11.24 20:27:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:27:57 INFO  time: compiled lab2 in 0.91s
+2024.11.24 20:30:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:30:30 INFO  time: compiled lab2 in 0.76s
+2024.11.24 20:31:40 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:31:40 INFO  time: compiled lab2 in 0.79s
+2024.11.24 20:31:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:31:48 INFO  time: compiled lab2 in 0.73s
+2024.11.24 20:31:59 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:31:59 INFO  time: compiled lab2 in 0.35s
+2024.11.24 20:32:05 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:32:05 INFO  time: compiled lab2 in 0.76s
+2024.11.24 20:32:10 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:32:10 INFO  time: compiled lab2 in 0.26s
+2024.11.24 20:32:12 INFO  time: compiled lab2 in 26ms
+2024.11.24 20:32:55 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:32:55 INFO  time: compiled lab2 in 0.65s
+2024.11.24 20:33:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:33:12 INFO  time: compiled lab2 in 0.64s
+2024.11.24 20:33:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:33:14 INFO  time: compiled lab2 in 0.56s
+2024.11.24 20:34:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:34:08 INFO  time: compiled lab2 in 0.74s
+íîÿá. 24, 2024 8:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3736
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:300)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:227)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:227)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:300)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:227)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:227)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:177)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:300)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:177)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:177)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:227)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:227)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:300)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:177)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:227)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:227)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:177)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:227)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:227)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+íîÿá. 24, 2024 8:38:38 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:442)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:278)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:289)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:300)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:177)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:227)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:227)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:131)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:131)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.11.24 20:38:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:38:43 INFO  time: compiled lab2 in 0.72s
+2024.11.24 20:38:45 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:38:45 INFO  time: compiled lab2 in 0.54s
+2024.11.24 20:39:09 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:39:09 INFO  time: compiled lab2 in 0.64s
+2024.11.24 20:39:21 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:39:21 INFO  time: compiled lab2 in 0.65s
+2024.11.24 20:40:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:00 INFO  time: compiled lab2 in 0.65s
+íîÿá. 24, 2024 8:40:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4104
+2024.11.24 20:40:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:13 INFO  time: compiled lab2 in 0.63s
+2024.11.24 20:40:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:14 INFO  time: compiled lab2 in 0.63s
+íîÿá. 24, 2024 8:40:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4175
+2024.11.24 20:40:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:17 INFO  time: compiled lab2 in 0.54s
+2024.11.24 20:40:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:24 INFO  time: compiled lab2 in 0.55s
+2024.11.24 20:40:32 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:32 INFO  time: compiled lab2 in 0.57s
+2024.11.24 20:40:39 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:39 INFO  time: compiled lab2 in 0.54s
+2024.11.24 20:40:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:40:43 INFO  time: compiled lab2 in 0.54s
+2024.11.24 20:47:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:47:48 INFO  time: compiled lab2 in 0.72s
+2024.11.24 20:48:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:48:43 INFO  time: compiled lab2 in 0.64s
+2024.11.24 20:48:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:48:48 INFO  time: compiled lab2 in 0.52s
+2024.11.24 20:50:40 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:50:40 INFO  time: compiled lab2 in 0.59s
+2024.11.24 20:50:42 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:50:42 INFO  time: compiled lab2 in 0.43s
+2024.11.24 20:50:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:50:48 INFO  time: compiled lab2 in 0.55s
+2024.11.24 20:51:19 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:51:19 INFO  time: compiled lab2 in 0.62s
+2024.11.24 20:51:20 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:51:20 INFO  time: compiled lab2 in 0.21s
+2024.11.24 20:51:21 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number2.scala
+2024.11.24 20:51:22 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number2.scala
+2024.11.24 20:51:21 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number2.scala
+2024.11.24 20:51:23 INFO  time: compiled lab2 in 26ms
+2024.11.24 20:52:36 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:52:36 INFO  time: compiled lab2 in 0.28s
+2024.11.24 20:52:38 INFO  time: compiled lab2 in 7ms
+2024.11.24 20:52:49 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:52:49 INFO  time: compiled lab2 in 0.57s
+2024.11.24 20:52:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:52:53 INFO  time: compiled lab2 in 0.54s
+2024.11.24 20:53:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:53:00 INFO  time: compiled lab2 in 0.54s
+2024.11.24 20:53:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:53:04 INFO  time: compiled lab2 in 0.58s
+2024.11.24 20:53:19 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:53:19 INFO  time: compiled lab2 in 0.67s
+2024.11.24 20:58:26 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:58:26 INFO  time: compiled lab2 in 0.63s
+2024.11.24 20:58:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:58:30 INFO  time: compiled lab2 in 0.57s
+2024.11.24 20:58:34 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:58:34 INFO  time: compiled lab2 in 0.51s
+2024.11.24 20:58:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:58:48 INFO  time: compiled lab2 in 0.46s
+2024.11.24 20:58:51 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:58:51 INFO  time: compiled lab2 in 0.21s
+2024.11.24 20:58:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 20:58:53 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:00:07 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:00:07 INFO  time: compiled lab2 in 0.75s
+íîÿá. 24, 2024 9:00:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5382
+2024.11.24 21:00:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:00:11 INFO  time: compiled lab2 in 0.51s
+2024.11.24 21:00:22 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:00:22 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:00:23 INFO  time: compiled lab2 in 27ms
+2024.11.24 21:00:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:00:56 INFO  time: compiled lab2 in 0.59s
+2024.11.24 21:00:57 INFO  time: compiled lab2 in 5ms
+2024.11.24 21:03:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:03:27 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:04:02 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:04:02 INFO  time: compiled lab2 in 0.52s
+2024.11.24 21:04:05 INFO  time: compiled lab2 in 6ms
+2024.11.24 21:04:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:04:56 INFO  time: compiled lab2 in 0.59s
+2024.11.24 21:05:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:05:00 INFO  time: compiled lab2 in 0.54s
+2024.11.24 21:05:03 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:05:03 INFO  time: compiled lab2 in 0.63s
+2024.11.24 21:05:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:05:11 INFO  time: compiled lab2 in 0.55s
+2024.11.24 21:07:39 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:07:39 INFO  time: compiled lab2 in 0.63s
+2024.11.24 21:07:47 INFO  time: compiled lab2 in 29ms
+2024.11.24 21:08:33 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:08:33 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:09:07 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:07 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:09:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:13 INFO  time: compiled lab2 in 0.59s
+2024.11.24 21:09:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:27 INFO  time: compiled lab2 in 0.53s
+2024.11.24 21:09:37 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:37 INFO  time: compiled lab2 in 0.53s
+2024.11.24 21:09:41 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:41 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:09:43 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:43 INFO  time: compiled lab2 in 0.48s
+2024.11.24 21:09:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:48 INFO  time: compiled lab2 in 0.62s
+2024.11.24 21:09:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:53 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:09:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:09:56 INFO  time: compiled lab2 in 0.54s
+2024.11.24 21:10:05 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:05 INFO  time: compiled lab2 in 0.55s
+2024.11.24 21:10:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:08 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:10:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:14 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:10:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:15 INFO  time: compiled lab2 in 0.45s
+2024.11.24 21:10:20 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:20 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:10:25 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:25 INFO  time: compiled lab2 in 0.52s
+2024.11.24 21:10:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:27 INFO  time: compiled lab2 in 0.48s
+2024.11.24 21:10:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:29 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:10:47 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:47 INFO  time: compiled lab2 in 0.51s
+2024.11.24 21:10:50 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:50 INFO  time: compiled lab2 in 0.56s
+2024.11.24 21:10:55 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:55 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:10:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:10:57 INFO  time: compiled lab2 in 0.5s
+2024.11.24 21:11:02 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:11:02 INFO  time: compiled lab2 in 0.51s
+2024.11.24 21:11:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:11:04 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:11:19 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:11:19 INFO  time: compiled lab2 in 0.54s
+2024.11.24 21:13:38 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:13:38 INFO  time: compiled lab2 in 0.62s
+2024.11.24 21:13:44 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:13:44 INFO  time: compiled lab2 in 0.55s
+2024.11.24 21:13:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:13:53 INFO  time: compiled lab2 in 0.58s
+2024.11.24 21:14:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:14:04 INFO  time: compiled lab2 in 0.47s
+2024.11.24 21:17:47 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:17:47 INFO  time: compiled lab2 in 0.28s
+2024.11.24 21:17:49 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:17:49 INFO  time: compiled lab2 in 0.22s
+2024.11.24 21:18:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:18:00 INFO  time: compiled lab2 in 0.22s
+2024.11.24 21:18:18 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:18:18 INFO  time: compiled lab2 in 0.32s
+2024.11.24 21:18:19 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:18:19 INFO  time: compiled lab2 in 0.25s
+2024.11.24 21:18:37 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:18:37 INFO  time: compiled lab2 in 0.38s
+2024.11.24 21:19:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:19:08 INFO  time: compiled lab2 in 0.32s
+íîÿá. 24, 2024 9:19:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6765
+2024.11.24 21:19:38 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:19:38 INFO  time: compiled lab2 in 0.27s
+2024.11.24 21:19:39 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:19:39 INFO  time: compiled lab2 in 0.42s
+2024.11.24 21:19:41 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:19:41 INFO  time: compiled lab2 in 0.22s
+2024.11.24 21:20:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:20:06 INFO  time: compiled lab2 in 0.27s
+2024.11.24 21:20:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:20:12 INFO  time: compiled lab2 in 0.29s
+2024.11.24 21:20:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:20:13 INFO  time: compiled lab2 in 0.28s
+2024.11.24 21:20:15 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:20:15 INFO  time: compiled lab2 in 0.23s
+íîÿá. 24, 2024 9:20:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7078
+2024.11.24 21:20:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:20:30 INFO  time: compiled lab2 in 0.23s
+2024.11.24 21:21:42 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:21:42 INFO  time: compiled lab2 in 0.59s
+2024.11.24 21:22:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:22:24 INFO  time: compiled lab2 in 0.26s
+2024.11.24 21:22:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:22:27 INFO  time: compiled lab2 in 0.19s
+2024.11.24 21:22:32 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:22:32 INFO  time: compiled lab2 in 0.53s
+2024.11.24 21:25:38 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:25:38 INFO  time: compiled lab2 in 0.6s
+2024.11.24 21:25:42 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:25:42 INFO  time: compiled lab2 in 0.52s
+2024.11.24 21:25:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:25:53 INFO  time: compiled lab2 in 0.55s
+íîÿá. 24, 2024 9:34:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7643
+2024.11.24 21:34:55 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:34:55 INFO  time: compiled lab2 in 0.57s
+íîÿá. 24, 2024 9:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7769
+íîÿá. 24, 2024 9:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7771
+íîÿá. 24, 2024 9:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7772
+íîÿá. 24, 2024 9:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7773
+íîÿá. 24, 2024 9:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7774
+íîÿá. 24, 2024 9:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7775
+íîÿá. 24, 2024 9:36:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7779
+2024.11.24 21:36:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:36:27 INFO  time: compiled lab2 in 0.56s
+íîÿá. 24, 2024 9:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7957
+íîÿá. 24, 2024 9:36:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7964
+2024.11.24 21:36:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:36:48 INFO  time: compiled lab2 in 0.46s
+2024.11.24 21:36:51 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:36:51 INFO  time: compiled lab2 in 0.46s
+2024.11.24 21:36:59 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:36:59 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:37:01 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:37:01 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:37:21 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:37:21 INFO  time: compiled lab2 in 0.2s
+2024.11.24 21:37:25 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:37:25 INFO  time: compiled lab2 in 0.2s
+2024.11.24 21:37:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:37:30 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:38:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:06 INFO  time: compiled lab2 in 0.6s
+2024.11.24 21:38:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:08 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number2.scala
+2024.11.24 21:38:08 INFO  time: compiled lab2 in 0.53s
+2024.11.24 21:38:10 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:10 INFO  time: compiled lab2 in 0.51s
+2024.11.24 21:38:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:13 INFO  time: compiled lab2 in 0.44s
+2024.11.24 21:38:44 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:44 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:38:46 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:46 INFO  time: compiled lab2 in 0.48s
+2024.11.24 21:38:51 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:51 INFO  time: compiled lab2 in 0.65s
+2024.11.24 21:38:53 INFO  time: compiled lab2 in 73ms
+2024.11.24 21:38:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:38:57 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:43:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:06 INFO  time: compiled lab2 in 0.24s
+2024.11.24 21:43:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:08 INFO  time: compiled lab2 in 0.51s
+2024.11.24 21:43:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:11 INFO  time: compiled lab2 in 0.74s
+2024.11.24 21:43:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:12 INFO  time: compiled lab2 in 0.23s
+2024.11.24 21:43:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:13 INFO  time: compiled lab2 in 0.39s
+2024.11.24 21:43:20 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:20 INFO  time: compiled lab2 in 0.53s
+2024.11.24 21:43:44 INFO  time: compiled lab2 in 27ms
+íîÿá. 24, 2024 9:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8497
+2024.11.24 21:43:49 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:49 INFO  time: compiled lab2 in 0.22s
+2024.11.24 21:43:52 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:43:52 INFO  time: compiled lab2 in 0.22s
+2024.11.24 21:43:54 INFO  time: compiled lab2 in 5ms
+2024.11.24 21:44:00 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:00 INFO  time: compiled lab2 in 0.19s
+2024.11.24 21:44:01 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:01 INFO  time: compiled lab2 in 0.47s
+2024.11.24 21:44:04 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:04 INFO  time: compiled lab2 in 0.41s
+2024.11.24 21:44:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:06 INFO  time: compiled lab2 in 0.47s
+2024.11.24 21:44:15 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:15 INFO  time: compiled lab2 in 0.47s
+2024.11.24 21:44:47 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:47 INFO  time: compiled lab2 in 0.23s
+2024.11.24 21:44:48 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:48 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:44:50 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:44:50 INFO  time: compiled lab2 in 0.57s
+2024.11.24 21:45:00 INFO  time: compiled lab2 in 20ms
+2024.11.24 21:45:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:45:06 INFO  time: compiled lab2 in 0.55s
+2024.11.24 21:45:07 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:45:07 INFO  time: compiled lab2 in 0.44s
+2024.11.24 21:45:13 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:45:13 INFO  time: compiled lab2 in 0.53s
+2024.11.24 21:45:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:45:17 INFO  time: compiled lab2 in 0.72s
+2024.11.24 21:45:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:45:53 INFO  time: compiled lab2 in 0.32s
+2024.11.24 21:50:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:50:14 INFO  time: compiled lab2 in 0.49s
+2024.11.24 21:50:15 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:50:15 INFO  time: compiled lab2 in 0.35s
+2024.11.24 21:50:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:50:17 INFO  time: compiled lab2 in 0.28s
+2024.11.24 21:50:28 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:50:28 INFO  time: compiled lab2 in 0.45s
+2024.11.24 21:51:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:51:11 INFO  time: compiled lab2 in 0.37s
+2024.11.24 21:51:26 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:51:26 INFO  time: compiled lab2 in 0.52s
+2024.11.24 21:51:35 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:51:35 INFO  time: compiled lab2 in 0.34s
+2024.11.24 21:54:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:54:57 INFO  time: compiled lab2 in 0.71s
+2024.11.24 21:56:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:56:17 INFO  time: compiled lab2 in 0.4s
+íîÿá. 24, 2024 9:59:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\ÈÐÈÒ\SCALA\lab2\.metals\.reports\metals-full\2024-11-24\r_compiler-error_(lab2)_21-59-50-063.md
+2024.11.24 21:59:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:59:53 INFO  time: compiled lab2 in 0.34s
+2024.11.24 21:59:55 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:59:55 INFO  time: compiled lab2 in 0.29s
+2024.11.24 21:59:59 INFO  compiling lab2 (1 scala source)
+2024.11.24 21:59:59 INFO  time: compiled lab2 in 0.28s
+2024.11.24 22:00:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:00:14 INFO  time: compiled lab2 in 0.31s
+2024.11.24 22:00:20 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:00:20 INFO  time: compiled lab2 in 0.16s
+íîÿá. 24, 2024 10:00:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\ÈÐÈÒ\SCALA\lab2\.metals\.reports\metals-full\2024-11-24\r_compiler-error_(lab2)_22-00-21-758.md
+íîÿá. 24, 2024 10:00:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9303
+íîÿá. 24, 2024 10:00:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\ÈÐÈÒ\SCALA\lab2\.metals\.reports\metals-full\2024-11-24\r_compiler-error_(lab2)_22-00-22-099.md
+2024.11.24 22:00:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:00:24 INFO  time: compiled lab2 in 0.27s
+íîÿá. 24, 2024 10:00:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9364
+2024.11.24 22:00:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:00:30 INFO  time: compiled lab2 in 0.31s
+2024.11.24 22:00:33 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:00:33 INFO  time: compiled lab2 in 0.47s
+2024.11.24 22:00:35 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:00:35 INFO  time: compiled lab2 in 0.29s
+2024.11.24 22:01:28 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:01:28 INFO  time: compiled lab2 in 0.38s
+2024.11.24 22:01:42 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:01:42 INFO  time: compiled lab2 in 0.29s
+2024.11.24 22:01:46 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:01:46 INFO  time: compiled lab2 in 0.27s
+íîÿá. 24, 2024 10:01:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9623
+2024.11.24 22:01:57 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:01:57 INFO  time: compiled lab2 in 0.27s
+2024.11.24 22:02:05 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:02:05 INFO  time: compiled lab2 in 0.28s
+2024.11.24 22:02:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:02:06 INFO  time: compiled lab2 in 0.23s
+2024.11.24 22:02:08 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:02:08 INFO  time: compiled lab2 in 0.32s
+2024.11.24 22:02:11 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:02:11 INFO  time: compiled lab2 in 0.17s
+2024.11.24 22:02:14 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:02:14 INFO  time: compiled lab2 in 0.28s
+íîÿá. 24, 2024 10:03:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\ÈÐÈÒ\SCALA\lab2\.metals\.reports\metals-full\2024-11-24\r_compiler-error_(lab2)_22-03-02-491.md
+íîÿá. 24, 2024 10:03:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\ÈÐÈÒ\SCALA\lab2\.metals\.reports\metals-full\2024-11-24\r_compiler-error_(lab2)_22-03-02-746.md
+íîÿá. 24, 2024 10:03:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\ÈÐÈÒ\SCALA\lab2\.metals\.reports\metals-full\2024-11-24\r_compiler-error_(lab2)_22-03-02-984.md
+íîÿá. 24, 2024 10:03:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9752
+íîÿá. 24, 2024 10:03:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9768
+2024.11.24 22:03:06 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:03:06 INFO  time: compiled lab2 in 0.31s
+íîÿá. 24, 2024 10:03:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9903
+2024.11.24 22:03:20 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:03:20 INFO  time: compiled lab2 in 0.28s
+2024.11.24 22:03:24 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:03:24 INFO  time: compiled lab2 in 0.32s
+2024.11.24 22:03:27 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:03:27 INFO  time: compiled lab2 in 0.29s
+2024.11.24 22:03:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:03:29 INFO  time: compiled lab2 in 0.27s
+2024.11.24 22:05:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:05:29 INFO  time: compiled lab2 in 0.36s
+2024.11.24 22:05:33 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:05:33 INFO  time: compiled lab2 in 0.27s
+2024.11.24 22:05:35 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:05:35 INFO  time: compiled lab2 in 0.25s
+2024.11.24 22:05:45 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:05:45 INFO  time: compiled lab2 in 0.28s
+íîÿá. 24, 2024 10:05:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10059
+2024.11.24 22:06:01 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:06:01 INFO  time: compiled lab2 in 0.33s
+2024.11.24 22:06:15 INFO  compiling lab2 (1 scala source)
+íîÿá. 24, 2024 10:06:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10117
+2024.11.24 22:06:15 INFO  time: compiled lab2 in 0.31s
+2024.11.24 22:06:19 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:06:19 INFO  time: compiled lab2 in 0.27s
+2024.11.24 22:06:29 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:06:29 INFO  time: compiled lab2 in 0.27s
+2024.11.24 22:06:30 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:06:30 INFO  time: compiled lab2 in 0.29s
+2024.11.24 22:06:36 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:06:36 INFO  time: compiled lab2 in 0.22s
+2024.11.24 22:11:50 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:11:50 INFO  time: compiled lab2 in 0.62s
+2024.11.24 22:12:17 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:12:17 INFO  time: compiled lab2 in 0.49s
+2024.11.24 22:12:26 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:12:26 INFO  time: compiled lab2 in 0.5s
+2024.11.24 22:14:56 ERROR D:\ÈÐÈÒ\SCALA\lab2\src\main\scala\number2.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.24 22:14:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:14:56 INFO  time: compiled lab2 in 0.57s
+2024.11.24 22:14:58 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:14:58 INFO  time: compiled lab2 in 0.46s
+2024.11.24 22:15:23 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:15:23 INFO  time: compiled lab2 in 0.21s
+2024.11.24 22:15:25 INFO  time: compiled lab2 in 23ms
+2024.11.24 22:16:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:16:12 INFO  time: compiled lab2 in 0.6s
+2024.11.24 22:18:53 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:18:53 INFO  time: compiled lab2 in 0.68s
+2024.11.24 22:18:56 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:18:56 INFO  time: compiled lab2 in 0.51s
+2024.11.24 22:19:12 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:19:12 INFO  time: compiled lab2 in 0.55s
+2024.11.24 22:20:44 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:20:44 INFO  time: compiled lab2 in 0.42s
+2024.11.24 22:20:50 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:20:50 INFO  time: compiled lab2 in 0.37s
+2024.11.24 22:20:51 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:20:51 INFO  time: compiled lab2 in 0.36s
+2024.11.24 22:22:18 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:22:18 INFO  time: compiled lab2 in 0.44s
+2024.11.24 22:22:20 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:22:20 INFO  time: compiled lab2 in 0.33s
+2024.11.24 22:22:23 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:22:23 INFO  time: compiled lab2 in 0.53s
+2024.11.24 22:23:05 INFO  compiling lab2 (1 scala source)
+2024.11.24 22:23:05 INFO  time: compiled lab2 in 0.53s
+2024.11.24 22:23:07 INFO  Shutting down server
+2024.11.24 22:23:07 INFO  shutting down Metals
+2024.11.24 22:23:07 INFO  Shut down connection with build server.
+2024.11.24 22:23:07 INFO  Shut down connection with build server.
+2024.11.24 22:23:07 INFO  Exiting server

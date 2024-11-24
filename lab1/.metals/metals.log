@@ -1050,3 +1050,57 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2024.11.22 00:58:35 INFO  time: compiled lab1 in 1.68s
 ÌÓˇ·. 22, 2024 12:58:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.11.22 00:59:44 INFO  Shutting down server
+2024.11.22 00:59:44 INFO  shutting down Metals
+2024.11.22 00:59:44 INFO  Shut down connection with build server.
+2024.11.22 00:59:44 INFO  Shut down connection with build server.
+2024.11.22 00:59:44 INFO  Exiting server
+2024.11.22 01:01:25 INFO  Started: Metals version 1.4.1 in folders 'D:\»–»“\SCALA\lab1' for client Visual Studio Code 1.95.3.
+2024.11.22 01:01:26 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.22 01:01:26 INFO  no build target found for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.22 01:01:28 INFO  no build target found for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.22 01:01:28 INFO  Attempting to connect to the build server...
+2024.11.22 01:01:28 INFO  Found a Bloop server running
+2024.11.22 01:01:28 INFO  no build target found for D:\»–»“\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.22 01:01:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.22 01:01:29 INFO  Attempting to connect to the build server...
+2024.11.22 01:01:29 INFO  Found a Bloop server running
+2024.11.22 01:01:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.22 01:01:29 INFO  time: Connected to build server in 1.68s
+2024.11.22 01:01:29 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.22 01:01:29 INFO  time: Imported build in 0.13s
+2024.11.22 01:01:29 INFO  running doctor check
+2024.11.22 01:01:29 INFO  java targets: lab1-build, lab1, lab1-test
+2024.11.22 01:01:33 INFO  Disconnecting from Bloop session...
+2024.11.22 01:01:33 INFO  Shut down connection with build server.
+2024.11.22 01:01:33 INFO  Shut down connection with build server.
+2024.11.22 01:01:33 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.22 01:01:33 INFO  Attempting to connect to the build server...
+2024.11.22 01:01:33 INFO  No running Bloop server found, starting one.
+2024.11.22 01:01:34 INFO  Starting compilation server
+2024.11.22 01:01:35 INFO  time: indexed workspace in 5.14s
+ÌÓˇ·. 22, 2024 1:01:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\»–»“\SCALA\lab1\.metals\.reports\metals-full\2024-11-22\r_compiler-error_(lab1)_01-01-36-167.md
+2024.11.22 01:01:36 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/lab1/src/main/scala/Main.scala
+ÌÓˇ·. 22, 2024 1:01:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\»–»“\SCALA\lab1\.metals\.reports\metals-full\2024-11-22\r_compiler-error_(lab1)_01-01-36-207.md
+ÌÓˇ·. 22, 2024 1:01:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\»–»“\SCALA\lab1\.metals\.reports\metals-full\2024-11-22\r_compiler-error_(lab1)_01-01-36-225.md
+2024.11.22 01:01:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.22 01:01:37 INFO  Attempting to connect to the build server...
+2024.11.22 01:01:37 INFO  Found a Bloop server running
+2024.11.22 01:01:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.22 01:01:38 INFO  time: Connected to build server in 4.2s
+2024.11.22 01:01:38 INFO  Connected to Build server: Bloop v2.0.5
+ÌÓˇ·. 22, 2024 1:01:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\»–»“\SCALA\lab1\.metals\.reports\metals-full\2024-11-22\r_compiler-error_(lab1)_01-01-38-229.md
+2024.11.22 01:01:38 WARN  Could not find semantic tokens for: file:///D:/»–»“/SCALA/lab1/src/main/scala/Main.scala
+2024.11.22 01:01:38 INFO  time: Imported build in 0.17s
+2024.11.22 01:01:38 INFO  running doctor check
+2024.11.22 01:01:38 INFO  java targets: lab1-build, lab1, lab1-test
+2024.11.22 01:01:40 INFO  time: indexed workspace in 2.4s
+2024.11.22 01:02:08 INFO  Shutting down server
+2024.11.22 01:02:08 INFO  shutting down Metals
+2024.11.22 01:02:08 INFO  Shut down connection with build server.
+2024.11.22 01:02:08 INFO  Shut down connection with build server.
+2024.11.22 01:02:08 INFO  Exiting server
