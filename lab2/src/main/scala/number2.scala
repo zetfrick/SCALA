@@ -9,16 +9,16 @@ object SecurePasswordApp {
   def main(args: Array[String]): Unit = {
     // Option
     println("Проверка с использованием Option")
-    println(testPasswordOption("Redgdggdg!"))
+    println(testPasswordOption("1Redgdggdg!"))
     println(testPasswordOption("red!"))
     println(testPasswordOption("Red"))
     println()
 
-    // Try и Either
-    println("Проверка с использованием Try и Either")
-    println(testPasswordTry("Redgdggdg!"))
-    println(testPasswordTry("red!"))
-    println(testPasswordTry("Red"))
+    // Either
+    println("Проверка с использованием Either")
+    println(testPassword("1Redgdggdg!"))
+    println(testPassword("red!"))
+    println(testPassword("Red"))
     println()
 
     // Future
@@ -44,8 +44,8 @@ def testPasswordOption(password: String): Boolean = {
   criteria.reduce(_ && _) // Вернёт true, если все хорошо, иначе false
 }
 
-// Функция для проверки пароля с использованием Try и Either
-def testPasswordTry(password: String): Either[String, Boolean] = {
+// Функция для проверки пароля с использованием Either
+def testPassword(password: String): Either[String, Boolean] = {
   val specialChars = "!@#$%^&*()_+-=[]{}|;:',.<>/?`~"
 
   def checkLength: Either[String, Boolean] =
@@ -84,7 +84,7 @@ def readingPassword(): Future[String] = {
     print("Введите пароль: ")
     readLine()
   }.map { password =>
-    testPasswordTry(password) match {
+    testPassword(password) match {
       case Right(_) => password
       case Left(error) =>
         println(s"Ошибка: $error")
