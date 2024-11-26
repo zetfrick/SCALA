@@ -1659,3 +1659,9 @@ INFO: Unsupported notification method: $/setTrace
 2024.11.26 13:34:55 INFO  running doctor check
 2024.11.26 13:34:55 INFO  java targets: lab2, lab2-test, lab2-build
 2024.11.26 13:34:58 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 13:35:00 INFO  time: indexed workspace in 4.39s
+2024.11.26 13:35:53 INFO  Shutting down server
+2024.11.26 13:35:53 INFO  shutting down Metals
+2024.11.26 13:35:53 INFO  Shut down connection with build server.
+2024.11.26 13:35:53 INFO  Shut down connection with build server.
+2024.11.26 13:35:53 INFO  Exiting server
