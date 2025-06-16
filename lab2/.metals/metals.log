@@ -1665,3 +1665,172 @@ INFO: Unsupported notification method: $/setTrace
 2024.11.26 13:35:53 INFO  Shut down connection with build server.
 2024.11.26 13:35:53 INFO  Shut down connection with build server.
 2024.11.26 13:35:53 INFO  Exiting server
+2024.11.26 13:39:30 INFO  Started: Metals version 1.4.1 in folders 'D:\»–»“\SCALA\lab2' for client Visual Studio Code 1.95.3.
+2024.11.26 13:39:30 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 13:39:31 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  Attempting to connect to the build server...
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  Found a Bloop server running
+ÌÓˇ·. 26, 2024 1:39:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+ÌÓˇ·. 26, 2024 1:39:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2024.11.26 13:39:33 WARN  no build target for: D:\»–»“\SCALA\lab2\src\main\scala\number2.scala
+ÌÓˇ·. 26, 2024 1:39:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:33 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 13:39:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.26 13:39:33 INFO  Attempting to connect to the build server...
+2024.11.26 13:39:33 INFO  Found a Bloop server running
+2024.11.26 13:39:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.26 13:39:34 INFO  time: Connected to build server in 1.51s
+2024.11.26 13:39:34 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.26 13:39:36 INFO  running doctor check
+2024.11.26 13:39:36 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.26 13:39:42 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 13:39:49 INFO  time: indexed workspace in 14s
+2024.11.26 13:39:49 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:39:49 INFO  time: compiled lab2 in 0.78s
+2024.11.26 13:46:55 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:46:55 INFO  time: compiled lab2 in 0.95s
+2024.11.26 13:47:00 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:47:00 INFO  time: compiled lab2 in 0.58s
+2024.11.26 13:48:01 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:48:01 INFO  time: compiled lab2 in 0.57s
+2024.11.26 13:49:23 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:23 INFO  time: compiled lab2 in 0.25s
+2024.11.26 13:49:25 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:25 INFO  time: compiled lab2 in 0.23s
+2024.11.26 13:49:30 INFO  time: compiled lab2 in 15ms
+2024.11.26 13:49:34 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:34 INFO  time: compiled lab2 in 0.47s
+2024.11.26 13:49:39 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:39 INFO  time: compiled lab2 in 0.21s
+2024.11.26 13:49:41 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:41 INFO  time: compiled lab2 in 0.2s
+2024.11.26 13:49:52 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:52 INFO  time: compiled lab2 in 0.17s
+2024.11.26 13:49:54 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:49:54 INFO  time: compiled lab2 in 0.16s
+ÌÓˇ·. 26, 2024 1:49:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 560
+2024.11.26 13:50:00 INFO  time: compiled lab2 in 5ms
+2024.11.26 13:50:27 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:50:27 INFO  time: compiled lab2 in 0.43s
+2024.11.26 13:50:28 INFO  compiling lab2 (1 scala source)
+2024.11.26 13:50:28 INFO  time: compiled lab2 in 0.41s
+2024.11.26 13:50:52 INFO  time: compiled lab2 in 4ms
+2024.11.26 18:33:50 INFO  Shutting down server
+2024.11.26 18:33:50 INFO  shutting down Metals
+2024.11.26 18:33:51 INFO  Shut down connection with build server.
+2024.11.26 18:33:51 INFO  Shut down connection with build server.
+2024.11.26 18:33:50 INFO  Exiting server
+2025.05.27 14:53:06 INFO  Started: Metals version 1.5.3 in folders 'D:\»–»“\SCALA\lab2' for client Visual Studio Code 1.100.2.
+2025.05.27 14:53:07 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.27 14:53:09 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number2.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.27 14:53:09 INFO  Attempting to connect to the build server...
+2025.05.27 14:53:09 INFO  Found a Bloop server running
+2025.05.27 14:53:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 14:53:10 INFO  Attempting to connect to the build server...
+2025.05.27 14:53:10 INFO  Found a Bloop server running
+2025.05.27 14:53:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 14:53:09 INFO  time: Connected to build server in 0.91s
+2025.05.27 14:53:10 INFO  Connected to Build server: Bloop v2.0.10
+2025.05.27 14:53:10 INFO  time: Imported build in 0.14s
+Ï‡ˇ 27, 2025 2:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2025.05.27 14:53:16 INFO  time: indexed workspace in 6.16s
+2025.05.27 14:53:16 INFO  Disconnecting from Bloop session...
+2025.05.27 14:53:16 INFO  Shut down connection with build server.
+2025.05.27 14:53:16 INFO  Shut down connection with build server.
+2025.05.27 14:53:17 INFO  Attempting to connect to the build server...
+2025.05.27 14:53:17 INFO  No running Bloop server found, starting one.
+2025.05.27 14:53:19 INFO  Starting compilation server
+2025.05.27 14:53:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 14:53:25 INFO  Attempting to connect to the build server...
+2025.05.27 14:53:25 INFO  Found a Bloop server running
+2025.05.27 14:53:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 14:53:25 INFO  time: Connected to build server in 8.03s
+2025.05.27 14:53:25 INFO  Connected to Build server: Bloop v2.0.10
+2025.05.27 14:53:25 INFO  time: Imported build in 0.14s
+2025.05.27 14:53:27 INFO  time: indexed workspace in 1.92s
+2025.05.27 14:53:28 INFO  compiling lab2 (3 scala sources)
+2025.05.27 14:53:33 INFO  time: compiled lab2 in 5.17s
+Ï‡ˇ 27, 2025 2:53:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+2025.05.27 14:53:47 INFO  time: code lens generation in 2.48s
+2025.05.27 14:54:12 INFO  Shutting down server
+2025.05.27 14:54:12 INFO  shutting down Metals
+2025.05.27 14:54:12 INFO  Shut down connection with build server.
+2025.05.27 14:54:12 INFO  Shut down connection with build server.
+2025.05.27 14:54:12 INFO  Exiting server
+2025.06.07 16:34:29 INFO  Started: Metals version 1.6.0 in folders 'D:\»–»“\SCALA\lab2' for client Visual Studio Code 1.100.3.
+2025.06.07 16:34:31 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.07 16:34:31 INFO  Attempting to connect to the build server...
+2025.06.07 16:34:31 INFO  Found a Bloop server running
+2025.06.07 16:34:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.07 16:34:32 INFO  Attempting to connect to the build server...
+2025.06.07 16:34:32 INFO  Found a Bloop server running
+2025.06.07 16:34:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.07 16:34:32 INFO  time: Connected to build server in 0.89s
+2025.06.07 16:34:32 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.07 16:34:32 INFO  time: Imported build in 0.14s
+2025.06.07 16:34:41 INFO  time: indexed workspace in 8.49s
+2025.06.07 16:35:59 INFO  Shutting down server
+2025.06.07 16:35:59 INFO  shutting down Metals
+2025.06.07 16:35:59 INFO  Shut down connection with build server.
+2025.06.07 16:35:59 INFO  Shut down connection with build server.
+2025.06.07 16:35:59 INFO  Exiting server
+2025.06.16 12:23:11 INFO  Started: Metals version 1.6.0 in folders 'D:\»–»“\SCALA\lab2' for client Visual Studio Code 1.101.0.
+2025.06.16 12:23:13 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number3.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.16 12:23:15 INFO  no build target found for D:\»–»“\SCALA\lab2\src\main\scala\number3.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.16 12:23:15 INFO  Attempting to connect to the build server...
+2025.06.16 12:23:15 INFO  Found a Bloop server running
+2025.06.16 12:23:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.16 12:23:16 INFO  Attempting to connect to the build server...
+2025.06.16 12:23:16 INFO  Found a Bloop server running
+2025.06.16 12:23:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\»–»“\SCALA\lab2\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.16 12:23:15 INFO  time: Connected to build server in 0.74s
+2025.06.16 12:23:16 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.16 12:23:16 INFO  time: Imported build in 0.13s
+2025.06.16 12:23:24 INFO  time: indexed workspace in 7.78s
+2025.06.16 12:23:24 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:23:25 INFO  time: compiled lab2 in 1.44s
+2025.06.16 12:23:51 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:23:51 INFO  time: compiled lab2 in 0.44s
+Ë˛Ì. 16, 2025 12:23:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2025.06.16 12:24:15 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:24:16 INFO  time: compiled lab2 in 1.08s
+2025.06.16 12:24:20 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:24:20 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab2\src\main\scala\number3.scala
+2025.06.16 12:24:21 INFO  time: compiled lab2 in 1s
+2025.06.16 12:24:54 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:24:55 INFO  time: compiled lab2 in 1.05s
+2025.06.16 12:24:55 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:24:56 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab2\src\main\scala\number3.scala
+2025.06.16 12:24:57 INFO  time: compiled lab2 in 1.11s
+2025.06.16 12:24:59 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:24:59 INFO  time: compiled lab2 in 0.95s
+2025.06.16 12:25:02 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:25:03 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab2\src\main\scala\number3.scala
+2025.06.16 12:25:02 INFO  time: compiled lab2 in 0.98s
+2025.06.16 12:31:18 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:31:20 INFO  time: compiled lab2 in 1.14s
+2025.06.16 12:31:30 INFO  time: compiled lab2 in 40ms
+2025.06.16 12:37:09 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:37:10 INFO  time: compiled lab2 in 1.05s
+2025.06.16 12:38:17 INFO  compiling lab2 (1 scala source)
+2025.06.16 12:38:17 WARN  Could not load snapshot text for D:\»–»“\SCALA\lab2\src\main\scala\number3.scala
+2025.06.16 12:38:17 INFO  time: compiled lab2 in 0.9s
+2025.06.16 12:39:30 INFO  Shutting down server
+2025.06.16 12:39:30 INFO  shutting down Metals
+2025.06.16 12:39:30 INFO  Shut down connection with build server.
+2025.06.16 12:39:30 INFO  Shut down connection with build server.
+2025.06.16 12:39:30 INFO  Exiting server

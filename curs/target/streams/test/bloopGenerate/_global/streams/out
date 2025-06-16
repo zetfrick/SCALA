@@ -1,0 +1,4 @@
+[debug] [curs-test] Classpath dependencies List()
+[debug] [curs-test] Dependencies from configurations List(curs)
+[debug] Bloop wrote the configuration of project 'curs-test' to 'D:\ИРИТ\SCALA\curs\.bloop\curs-test.json'
+[success] Generated .bloop\curs-test.json

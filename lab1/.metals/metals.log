@@ -1110,3 +1110,180 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2024.11.26 13:25:49 INFO  Started: Metals version 1.4.1 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.95.3.
 2024.11.26 13:25:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
 2024.11.26 13:25:54 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 23:20:47 INFO  Started: Metals version 1.4.2 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.96.2.
+2024.12.27 23:20:52 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 23:20:53 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 23:20:53 INFO  Attempting to connect to the build server...
+2024.12.27 23:20:53 INFO  Found a Bloop server running
+2024.12.27 23:20:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 23:20:55 INFO  Attempting to connect to the build server...
+2024.12.27 23:20:55 INFO  Found a Bloop server running
+2024.12.27 23:20:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 23:20:55 INFO  time: Connected to build server in 1.89s
+2024.12.27 23:20:55 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.27 23:20:55 INFO  time: Imported build in 0.12s
+2024.12.27 23:20:55 INFO  running doctor check
+2024.12.27 23:20:55 INFO  java targets: lab1-build, lab1, lab1-test
+2024.12.27 23:21:03 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:04 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala
+2024.12.27 23:21:05 INFO  time: compiled lab1 in 2.1s
+2024.12.27 23:21:05 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala
+2024.12.27 23:21:07 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:09 INFO  time: indexed workspace in 14s
+2024.12.27 23:21:09 INFO  Deduplicating compilation of lab1 from bsp client 'Metals 1.4.2' (since 15.23s)
+2024.12.27 23:21:09 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:11 INFO  time: compiled lab1 in 1.21s
+2024.12.27 23:21:11 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:13 INFO  time: compiled lab1 in 1.86s
+2024.12.27 23:21:19 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:19 INFO  time: compiled lab1 in 0.88s
+2024.12.27 23:21:28 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:28 INFO  time: compiled lab1 in 0.65s
+2024.12.27 23:21:32 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:32 INFO  time: compiled lab1 in 0.65s
+2024.12.27 23:21:45 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:45 INFO  time: compiled lab1 in 0.49s
+2024.12.27 23:21:56 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:21:56 INFO  time: compiled lab1 in 0.43s
+2024.12.27 23:22:05 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:22:05 INFO  time: compiled lab1 in 0.45s
+2024.12.27 23:22:38 INFO  file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala:57:46: stale bloop error: no pattern match extractor named Failure was found
+    val errorStream = tryStream.collect{case Failure(exception) => "Imposible to cast to Int"} 
+                                             ^^^^^^^
+2024.12.27 23:22:38 INFO  file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala:58:46: stale bloop error: no pattern match extractor named Success was found
+    val valueStream = tryStream.collect{case Success(value) => value} 
+                                             ^^^^^^^
+2024.12.27 23:22:38 INFO  file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala:82:7: stale bloop error: Found:    (offsets : LazyList[Any])
+Required: LazyList[Int]
+      offsets 
+      ^^^^^^^
+2024.12.27 23:22:38 INFO  file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala:109:5: stale bloop error: Not found: Await - did you mean wait?
+    Await.ready(questionsPrint, Duration.Inf) 
+    ^^^^^
+2024.12.27 23:22:38 INFO  file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala:110:5: stale bloop error: Not found: Await - did you mean wait?
+    Await.ready(errorsPrint, Duration.Inf) 
+    ^^^^^
+2024.12.27 23:22:38 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala
+2024.12.27 23:22:39 INFO  time: compiled lab1 in 17ms
+2024.12.27 23:22:39 WARN  Could not find semantic tokens for: file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Exam.scala
+2024.12.27 23:23:17 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:23:18 INFO  time: compiled lab1 in 1.72s
+2024.12.27 23:43:22 INFO  compiling lab1 (1 scala source)
+2024.12.27 23:43:22 INFO  time: compiled lab1 in 0.87s
+2024.12.27 23:43:24 INFO  Shutting down server
+2024.12.27 23:43:24 INFO  shutting down Metals
+2024.12.27 23:43:24 INFO  Shut down connection with build server.
+2024.12.27 23:43:24 INFO  Shut down connection with build server.
+2024.12.27 23:43:24 INFO  Exiting server
+2025.02.12 11:06:04 INFO  Started: Metals version 1.4.2 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.96.2.
+2025.02.12 11:06:05 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.12 11:06:09 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.12 11:06:10 INFO  Attempting to connect to the build server...
+2025.02.12 11:06:10 INFO  No running Bloop server found, starting one.
+2025.02.12 11:06:10 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.12 11:06:13 INFO  Starting compilation server
+2025.02.12 11:06:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.12 11:06:25 INFO  Attempting to connect to the build server...
+2025.02.12 11:06:25 INFO  Found a Bloop server running
+2025.02.12 11:06:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.12 11:06:26 INFO  time: Connected to build server in 16s
+2025.02.12 11:06:26 INFO  Connected to Build server: Bloop v2.0.6
+2025.02.12 11:06:26 INFO  time: Imported build in 0.27s
+2025.02.12 11:06:26 INFO  running doctor check
+2025.02.12 11:06:26 INFO  java targets: lab1-build, lab1, lab1-test
+2025.02.12 11:06:42 INFO  Shutting down server
+2025.02.12 11:06:42 INFO  shutting down Metals
+2025.02.12 11:06:42 INFO  Shut down connection with build server.
+2025.02.12 11:06:42 INFO  Shut down connection with build server.
+2025.02.12 11:06:42 INFO  Exiting server
+2025.06.07 16:33:31 INFO  Started: Metals version 1.6.0 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.100.3.
+2025.06.07 16:33:32 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.07 16:33:34 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.07 16:33:35 INFO  Attempting to connect to the build server...
+2025.06.07 16:33:35 INFO  No running Bloop server found, starting one.
+2025.06.07 16:33:36 INFO  Starting compilation server
+2025.06.07 16:33:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.07 16:33:41 INFO  Attempting to connect to the build server...
+2025.06.07 16:33:41 INFO  Found a Bloop server running
+2025.06.07 16:33:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.07 16:33:41 INFO  time: Connected to build server in 6.64s
+2025.06.07 16:33:41 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.07 16:33:41 INFO  time: Imported build in 0.31s
+2025.06.07 16:33:50 INFO  time: indexed workspace in 7.97s
+2025.06.07 16:33:51 INFO  compiling lab1 (1 scala source)
+2025.06.07 16:33:58 INFO  time: compiled lab1 in 7.73s
+2025.06.07 16:34:03 INFO  Shutting down server
+2025.06.07 16:34:03 INFO  shutting down Metals
+2025.06.07 16:34:03 INFO  Shut down connection with build server.
+2025.06.07 16:34:03 INFO  Shut down connection with build server.
+2025.06.07 16:34:03 INFO  Exiting server
+2025.06.16 12:18:51 INFO  Started: Metals version 1.6.0 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.101.0.
+2025.06.16 12:18:53 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.16 12:18:54 INFO  Attempting to connect to the build server...
+2025.06.16 12:18:54 INFO  Found a Bloop server running
+2025.06.16 12:18:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.16 12:18:55 INFO  Attempting to connect to the build server...
+2025.06.16 12:18:55 INFO  Found a Bloop server running
+2025.06.16 12:18:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.16 12:18:55 INFO  time: Connected to build server in 1.46s
+2025.06.16 12:18:55 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.16 12:18:55 INFO  time: Imported build in 0.15s
+2025.06.16 12:19:03 INFO  time: indexed workspace in 7.64s
+2025.06.16 12:19:04 INFO  compiling lab1 (1 scala source)
+2025.06.16 12:19:10 INFO  time: compiled lab1 in 6.46s
+2025.06.16 12:19:32 INFO  Shutting down server
+2025.06.16 12:19:32 INFO  shutting down Metals
+2025.06.16 12:19:32 INFO  Shut down connection with build server.
+2025.06.16 12:19:32 INFO  Shut down connection with build server.
+2025.06.16 12:19:32 INFO  Exiting server
+2025.06.16 12:20:10 INFO  Started: Metals version 1.6.0 in folders 'D:\ÈÐÈÒ\SCALA\lab1' for client Visual Studio Code 1.101.0.
+2025.06.16 12:20:11 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.16 12:20:13 INFO  no build target found for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.16 12:20:13 INFO  Attempting to connect to the build server...
+2025.06.16 12:20:13 INFO  Found a Bloop server running
+2025.06.16 12:20:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.16 12:20:14 INFO  Attempting to connect to the build server...
+2025.06.16 12:20:14 INFO  Found a Bloop server running
+2025.06.16 12:20:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ÈÐÈÒ\SCALA\lab1\project\.metals\bsp.trace.json or C:\Users\fsome\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.16 12:20:14 INFO  time: Connected to build server in 0.56s
+2025.06.16 12:20:14 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.16 12:20:14 INFO  time: Imported build in 0.11s
+2025.06.16 12:20:22 INFO  time: indexed workspace in 8.06s
+2025.06.16 12:20:22 INFO  compiling lab1 (1 scala source)
+2025.06.16 12:20:24 INFO  time: compiled lab1 in 2.11s
+Exception in thread "pool-7-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-7-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.16 12:20:46 INFO  Created report: Optional[file:///D:/ÈÐÈÒ/SCALA/lab1/src/main/scala/Main.scala]
+2025.06.16 12:20:46 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "D:\ÈÐÈÒ\SCALA\lab1\.metals\.reports\metals-full\2025-06-16\r_empty-definition_(lab1)_12-20-46-111.md")
+Exception in thread "pool-7-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.16 12:21:12 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "D:\ÈÐÈÒ\SCALA\lab1\.metals\.reports\metals-full\2025-06-16\r_empty-definition_(lab1)_12-20-46-111.md")
+2025.06.16 12:21:22 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "D:\ÈÐÈÒ\SCALA\lab1\.metals\.reports\metals-full\2025-06-16\r_empty-definition_(lab1)_12-20-46-111.md")
+2025.06.16 12:22:04 INFO  compiling lab1 (1 scala source)
+2025.06.16 12:22:07 INFO  time: compiled lab1 in 3.3s
+2025.06.16 12:22:35 INFO  compiling lab1 (1 scala source)
+2025.06.16 12:22:35 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala
+2025.06.16 12:22:36 INFO  time: compiled lab1 in 1.22s
+2025.06.16 12:22:37 WARN  Could not load snapshot text for D:\ÈÐÈÒ\SCALA\lab1\src\main\scala\Main.scala
+2025.06.16 12:22:44 INFO  Shutting down server
+2025.06.16 12:22:44 INFO  shutting down Metals
+2025.06.16 12:22:44 INFO  Shut down connection with build server.
+2025.06.16 12:22:44 INFO  Shut down connection with build server.
+2025.06.16 12:22:44 INFO  Exiting server
